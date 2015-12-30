@@ -140,20 +140,14 @@ Students will also conduct self assessments as well as be evaluated by the profe
 
 You will be judged on the quality, iteration, completion, and presentation of your thesis. 
 
-###### A. Excellent (90-100)
-Your performance and attendance has been of the highest level, showing sustained excellence in meeting course responsibilities. Your thesis clearly differentiates itself from other work. Your thesis has memorable impact, and pursues concepts and techniques above and beyond average goals. The ideas behind your thesis are original, thoughtful and/or imaginative. Spelling, punctuation or grammatical errors are non-existent. Your thesis demonstrates your ability to think critically and work independently. Your thesis also demonstrates the use of strong methods and process.
-
-###### B. Very Good / Good (80-89)
-Your performance and attendance has been good, though not of the highest level. Your thesis is better than average and shows extra effort. The impact of your thesis is good, and demonstrates the utilization of the iterative process. Your thesis employs above average craft and attention to detail.
-
-###### C. Satisfactory (70-79)
-Your performance and attendance has been adequate, satisfactorily meeting the course requirements. Average and competent, your thesis has acceptable levels of impact and conceptual development. The content of your thesis is sufficiently developed, but it lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. Your thesis employs process, but does not demonstrate notable solutions.
-
-###### D. Poor; Below Average (60-69)
-Your performance and attendance has been less than adequate. Your thesis is lacking in many or most areas that show any understanding of the research, design, and/or prototyping phase(s). The impact of your thesis is weak with unsound, unoriginal, or unimaginative thinking. Problems may include lack of interest, procrastination, poor planning and/or poor craft.
-
-###### F. Unacceptable (59 & Below)
-The performance & attendance of the student has not met course requirements. Your thesis shows no overall understanding of the research, design, and/or prototyping phase(s) on many levels or either a severe lack of interest.
+* **A Excellent** (Work of exceptional quality)
+* **A- Very Good** (Work of high quality)
+* **B+ Good** (Solid work)
+* **B Satisfactory** (Good work; Satisfies course requirements)
+* **B-**  (Below average work)
+* **C+ Adequate** (Less than adequate work)
+* **C Poor Work** (Well Below Average)
+* **F** Unacceptable (The performance and/or attendance of the student has failed course requirements.)
 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
