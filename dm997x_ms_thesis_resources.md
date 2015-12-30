@@ -150,7 +150,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [Lean In for Graduates](http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&qid=1442940600&sr=8-1&keywords=lean+in+for+graduates) by Sheryl Sanders 
 
 * [Thrive](http://www.amazon.com/Thrive-Redefining-Success-Creating-Well-Being/dp/0804140863/ref=sr_1_1?ie=UTF8&qid=1442940637&sr=8-1&keywords=thrive+arianna+huffington) by Arianna Huffington 
-* 
+
 ####Creativity
 * [Do the Work: Overcome Resistance and Get Out of Your Own Way](http://www.amazon.com/Do-Work-Overcome-Resistance-Your/dp/1936891379/ref=sr_1_1?ie=UTF8&qid=1440022776&sr=8-1&keywords=do+the+work) by Steven Pressfield
 
