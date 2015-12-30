@@ -134,7 +134,7 @@ Students will also conduct self assessments as well as be evaluated by the profe
 * 10% Project Demo Critiques
 * 03% Self Assessment & Rubrics
 
-*Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
+*Extra Credit: Career Counseling Appt. through NYU's Wasserman Center*
 
 ##### Qualitative Grading Overview
 
