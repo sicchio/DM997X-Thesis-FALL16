@@ -170,17 +170,8 @@ project. This includes images, illustrations, audio etc. The source of any mater
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 
-### PRINTED ASSIGNMENTS
-Any printed assignments should always contain the following info, be saved as a pdf, and contain your name in the filename: 
-
-* Date
-* Your first and last name
-* DM 997X MS Thesis In Digital Media
-* Spring 2016
-* Duff
-* Title of project or assignment
-
-**File Naming**
+### PDFs
+Any printed assignments should be saved as a pdf, and contain your name in the filename: 
 
 * All PDFs should be labeled as follows *firstnameLastname_assignmentName_date.pdf* (deangeladuff_resume_2015jan03.pdf)
 
