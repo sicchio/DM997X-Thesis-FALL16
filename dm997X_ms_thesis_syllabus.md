@@ -210,8 +210,11 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 * [Asking A More Beautiful Question With Warren Berger](https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger) (Start listening to the podcast around 22 minutes INTO the podcast...)
 
-### REQUIRED TOOLS
+### REQUIRED TOOL
 * Analog or Digital Calendar
+* [Personal Kanban](http://personalkanban.com)
+
+### REQUIRED RESOURCE
 * [NYU School of Engineering's Writing Center](http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
 ### THESIS COMPONENTS
