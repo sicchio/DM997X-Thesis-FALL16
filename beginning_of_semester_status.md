@@ -16,7 +16,8 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 * **List your thesis title:**
 
     * **Is it a final or working title?**
-
+    
+* **List your thesis advisor:**
 
 * **What are your career goals?** (What are the next steps for your IDM post-graduation? What industry/industries are you targeting? Are you targeting any particular companies or organizations?)
 
@@ -54,10 +55,10 @@ Keep in mind, "What is the project about? What is its theme?"
  * If you don’t have a thesis advisor, who have you been in contact with? What was their response? What area(s) of expertise are your seeking in a thesis advisor?
 
 * **Discuss your winter progress**
-* What did you do over the winter break to make progress on your **project**? If you did not work on your project over the winter break, own it and say so.
+    * What did you do over the winter break to make progress on your **project**? If you did not work on your project over the winter break, own it and say so.
 
-* What did you do over the winter break to make progress on your **paper**? If you did not work on your paper over the winter break, own it and say so.
+    * What did you do over the winter break to make progress on your **paper**? If you did not work on your paper over the winter break, own it and say so.
 
-* How has your project transformed or shifted over the winter break AND why?
+    * How has your project transformed or shifted over the winter break AND why?
 
 **(OPTIONAL) Other comments:**
