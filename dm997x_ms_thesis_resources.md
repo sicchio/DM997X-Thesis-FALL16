@@ -59,7 +59,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 
-* [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
+
 
 * [Dr. Kendra Gaines' Basics of Academic Writing](http://www.gwr.arizona.edu/content-topics.htm)
      
@@ -112,7 +112,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 
 ## RECOMMENDED PRESENTATION RESOURCES
-
+* [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
 * [Speaking.io](http://speaking.io)
 * [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)](http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
 
@@ -140,12 +140,18 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 ## RECOMMENDED BOOKS
 
+####Career
 * [The 4-Hour Workweek, Expanded and Updated](http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
 
 * [Anything You Want](http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
 
 * [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World](http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
+* [Lean In for Graduates](http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&qid=1442940600&sr=8-1&keywords=lean+in+for+graduates) by Sheryl Sanders 
+
+* [Thrive](http://www.amazon.com/Thrive-Redefining-Success-Creating-Well-Being/dp/0804140863/ref=sr_1_1?ie=UTF8&qid=1442940637&sr=8-1&keywords=thrive+arianna+huffington) by Arianna Huffington 
+* 
+####Creativity
 * [Do the Work: Overcome Resistance and Get Out of Your Own Way](http://www.amazon.com/Do-Work-Overcome-Resistance-Your/dp/1936891379/ref=sr_1_1?ie=UTF8&qid=1440022776&sr=8-1&keywords=do+the+work) by Steven Pressfield
 
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered ](http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X/ref=sr_1_1?ie=UTF8&qid=1440022873&sr=8-1&keywords=show+your+work) by Austin Kleon
@@ -154,7 +160,5 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>(If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.)
 
-* [Lean In for Graduates](http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&qid=1442940600&sr=8-1&keywords=lean+in+for+graduates) by Sheryl Sanders 
 
-* [Thrive](http://www.amazon.com/Thrive-Redefining-Success-Creating-Well-Being/dp/0804140863/ref=sr_1_1?ie=UTF8&qid=1442940637&sr=8-1&keywords=thrive+arianna+huffington) by Arianna Huffington 
 
