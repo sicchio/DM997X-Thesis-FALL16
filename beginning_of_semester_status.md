@@ -17,6 +17,7 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
     * **Is it a final or working title?**
     
+    
 * **List your thesis advisor:**
 
 * **What are your career goals?** (What are the next steps for your IDM post-graduation? What industry/industries are you targeting? Are you targeting any particular companies or organizations?)
@@ -44,9 +45,9 @@ Keep in mind, "What is the project about? What is its theme?"
 
     * *Note: Obviously you would not leave in the parentheses; it's a just a marker to denote what you should add.*
 
-* **List your thesis advisor (if you have one):**
+* **Thesis advisor:**
 
- * Why did you select him or her to be your thesis advisor?
+ * Why did you select this person to be your thesis advisor?
 
  * Did you meet with him/her over the winter break? If yes, how many times? What did you discuss/question/decide with your thesis advisor over the winter break?
 
