@@ -131,7 +131,7 @@ Students will also conduct self assessments as well as be evaluated by the profe
 * 16% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * 11% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
 * 10% Mock Thesis Defenses
-* 10% Project Critique Presentations
+* 10% Project Demo Critiques
 * 03% Self Assessment & Rubrics
 
 *Extra Credit: Career Counseling Appt. through NYU's Waserman Center*
