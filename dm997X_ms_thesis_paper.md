@@ -54,6 +54,7 @@ Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets
 * Section Title
 
 ## Assignment: Detailed Written Outline
+
 Review [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your detailed outline.
 
 Create a more detailed written outline by fleshing out they key points of your topics and/or subtopics of your initial written outline.
