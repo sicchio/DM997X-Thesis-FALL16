@@ -50,7 +50,8 @@ their process website.
 
 ##Examples of Process Websites
 Ernie Gerardo’ thesis website is a good example, http://www.erniegerardo.com/thesisprocess. Please use Ernie’s thesis website as a guide. Why?  
-* You can clearly read what his thesis was about due to his about link. You don’t have to wade through to the beginning of his posts to find this out. His navigation stands out due to its visual hierarchy.
+* He had separate entries for each week.
+* The entries were in reverse chronological order.
 * He explicitly stated what he did, concisely and clearly.
 * He had visual documentation (images and screenshots). 
 * However, most importantly, he had supporting text for these images and screenshots.
