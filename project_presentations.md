@@ -28,8 +28,8 @@ Rules of the Critique:
 
 ### General Guidelines for your Project Demo
 * You will demo the project at its current state.
-* The focus is on the project itself. 
-* Do not create a supporting presentation.
+* The focus is on the actual artifact you are creating and nothing else.
+* Do NOT create a supporting presentation.
 
 
 
