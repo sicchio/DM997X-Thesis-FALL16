@@ -1,11 +1,11 @@
-# Project Demo
+# Thesis Project Demo
 
 ### DM-GY 997X MS Thesis In Digital Media
 ##### Spring 2016 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
 
 ---
 
-Project Demos will be held on designated Wednesdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
+Thesis Project Demos will be held on designated Wednesdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
      Each demo will consist of 
      * 10 minutes of demo and 
