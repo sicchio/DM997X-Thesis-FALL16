@@ -212,7 +212,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED TOOL
 * Analog or Digital Calendar
-* [Personal Kanban](http://personalkanban.com)
+* [Personal Kanban](http://www.personalkanban.com/pk/personal-kanban-101)
 
 ### REQUIRED RESOURCE
 * [NYU School of Engineering's Writing Center](http://engineering.nyu.edu/academics/support/polytechnic/writing)
