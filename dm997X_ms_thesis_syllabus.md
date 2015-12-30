@@ -62,7 +62,7 @@ This class will consist of
 * Group Discussion
 * Individual Meetings
 * In-class Peer Critiques
-* [Project Demos and Critique]()
+* [Project Demos and Critique](project_demo.md)
 * [Mock Thesis Defenses and Critique](dm997X_ms_thesis_mock_defense.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
 * Self Assessment
