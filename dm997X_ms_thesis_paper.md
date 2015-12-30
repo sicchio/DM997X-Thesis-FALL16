@@ -42,6 +42,10 @@ Or
 
 Look at the example of a mind map on slack, and create a mind map of your paper.
 
+Or 
+
+Create a combination visual outline / mind map
+
 ### Assignment: Written Outline
 Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
 
