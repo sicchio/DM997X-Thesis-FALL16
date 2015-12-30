@@ -80,9 +80,6 @@ they are most useful exactly when you feel you have nothing to talk about or sho
 Students will also conduct self assessments as well as be evaluated by the professor throughout the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
-
-
-
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
 * Direct message on Slack about logistics (when, where, how many?) ONLY
