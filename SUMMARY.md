@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Beginning of Semester Status](beginning_of_semester_status.md)
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
 * [Groups](dm997X_ms_thesis_groups.md)
@@ -13,7 +14,6 @@
 * [Thesis Project](dm997X_ms_thesis_project.md)
 * [Thesis Research](dm997X_ms_thesis_research.md)
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
-* [Beginning of Semester Status](beginning_of_semester_status.md)
 * [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * [Recommended Resources](dm997x_ms_thesis_resources.md)
 
