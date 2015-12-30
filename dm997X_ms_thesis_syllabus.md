@@ -1,6 +1,6 @@
 # DM-GY 997X MS Thesis In Digital Media
 
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
+![NYU](http://engineering.nyu.edu/files/tandon_long_black.jpg)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     De Angela L. Duff, deangela.duff@nyu.edu • Spring 2016 
