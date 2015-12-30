@@ -140,13 +140,13 @@ Students will also conduct self assessments as well as be evaluated by the profe
 
 You will be judged on the quality, iteration, completion, and presentation of your thesis. 
 
-* **A Excellent** (Work of exceptional quality)
+* **A Excellent** (Work of exceptional quality; Exceeds Expectations)
 * **A- Very Good** (Work of high quality)
-* **B+ Good** (Solid work)
+* **B+ Good** (Solid work; Meets Expectations)
 * **B Satisfactory** (Good work; Satisfies course requirements)
-* **B-**  (Below average work)
-* **C+ Adequate** (Less than adequate work)
-* **C Poor Work** (Well Below Average)
+* **B- Needs Improvement**  (Below average work)
+* **C+ Poor Work** (Well Below Average)
+* **C Inadequate** (Less than adequate work)
 * **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
 
