@@ -11,7 +11,7 @@
 * [Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)
 * [Thesis Paper](dm997X_ms_thesis_paper.md)
 * [Thesis Project](dm997X_ms_thesis_project.md)
-* [Project Demo](project_demo.md)
+* [Thesis Project Demo](project_demo.md)
 * [Thesis Research](dm997X_ms_thesis_research.md)
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
 * [Recommended Resources](dm997x_ms_thesis_resources.md)
