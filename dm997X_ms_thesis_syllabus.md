@@ -204,7 +204,8 @@ Students, in addition to their regular NYU allotment, also have available to the
 * [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
 ### REQUIRED ARTICLE
-* [Personal Productivity](http://paulklipp.com/images/PersonalProductivity.pdf) by Paul Klipp 
+* [Personal Productivity](http://paulklipp.com/images/PersonalProductivity.pdf) by Paul Klipp
+ 
 ### REQUIRED MEDIA
 * [Time Management](https://www.youtube.com/watch?v=blaK_tB_KQA) by Randy Pausch, November 2007 (Start listening to the podcast around ? minutes INTO the video...)
 * [Asking A More Beautiful Question With Warren Berger](https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger) (Start listening to the podcast around 22 minutes INTO the podcast...)
