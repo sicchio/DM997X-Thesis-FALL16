@@ -147,7 +147,7 @@ You will be judged on the quality, iteration, completion, and presentation of yo
 * **B-**  (Below average work)
 * **C+ Adequate** (Less than adequate work)
 * **C Poor Work** (Well Below Average)
-* **F** Unacceptable (The performance and/or attendance of the student has failed course requirements.)
+* **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
