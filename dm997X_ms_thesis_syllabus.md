@@ -118,7 +118,7 @@ Students will also conduct self assessments as well as be evaluated by the profe
 
 ##### Attendance
 
-* Attendance is mandatory during project critiques, individual status meetings, and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to exchange a time with a fellow classmate. 
+* Attendance is mandatory during project critiques, individual status meetings, and mock thesis defenses. If you miss an individual status meeting, it is your responsibility to exchange a time with a fellow classmate. 
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
