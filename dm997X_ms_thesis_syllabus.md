@@ -10,7 +10,7 @@
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
    
-#####Gitbook: http://deangela.gitbooks.io/ms-thesis-in-digital-media/content/  
+#####Gitbook: https://deangela.gitbooks.io/ms-thesis-in-digital-media-spring-2016/content/
 #####Course Management Site: http://bxmc.slack.com 
 ---
 
@@ -62,7 +62,7 @@ This class will consist of
 * Group Discussion
 * Individual Meetings
 * In-class Peer Critiques
-* Project Presentations and Critique
+* Project Demos and Critique
 * [Mock Thesis Defenses and Critique](dm997X_ms_thesis_mock_defense.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
 * Self Assessment
@@ -74,7 +74,7 @@ they are most useful exactly when you feel you have nothing to talk about or sho
 
 **In-class peer critiques**<br>While I am meeting with your fellow classmates, it is mandatory that you receive peer critique on whatever you are currently working on. You should not be working on anything during peer critique. You should be giving feedback to a fellow classmate. When you are finished with one classmate, find another. Rinse and repeat.
 
-**[Project Presentations & Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)**<br>Project critiques or mock thesis defenses will be held on designated Wednessdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
+**[Project Demos]() & [Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)**<br>Project demos or mock thesis defenses will be held on designated Wednessdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
 **Self Assessment**
 Students will also conduct self assessments as well as be evaluated by the professor throughout the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
