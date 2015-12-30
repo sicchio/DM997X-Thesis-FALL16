@@ -27,7 +27,8 @@ Rules of the Critique:
 * Do NOT take feedback personally.
 
 ### General Guidelines for your Project Demo
-* You will demo the project at its current state. * The focus is on the project itself. 
+* You will demo the project at its current state.
+* The focus is on the project itself. 
 * Do not create a supporting presentation.
 
 
