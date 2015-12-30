@@ -9,6 +9,7 @@
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
 * [Thesis Roles](thesis_roles.md)
 * [Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)
+   * Project Presentations
 * [Thesis Paper](dm997X_ms_thesis_paper.md)
 * [Thesis Project](dm997X_ms_thesis_project.md)
 * [Thesis Research](dm997X_ms_thesis_research.md)
