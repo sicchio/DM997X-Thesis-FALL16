@@ -20,7 +20,7 @@ What do I mean by COMPILED thesis paper?
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
 * First, ask yourself what question is your research trying to answer? (Please reference the above link.)
-* 
+
 ## Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
