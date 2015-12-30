@@ -3,7 +3,7 @@
 
 ---
 
-# PROJECT PRMOCK THESIS DEFENSES 
+# MOCK THESIS DEFENSES 
 Mock thesis defenses will be held on designated Wednesdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
      Each presentation will consist of 
