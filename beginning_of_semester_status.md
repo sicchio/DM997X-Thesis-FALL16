@@ -34,7 +34,8 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 * **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)? (methodology)
 ** 
 
-* **How and why has the topic of your thesis changed through time, as something with its own history?** (history)
+* **How and why has the topic of your thesis changed through time, as something with its own history? How and why is your topic an episode in a larger
+history?** (history)
 
 * **Where does your project fit? Whose shoulders do you stand on? Who are your peers? (Anyone doing the same work at other universities?)** If you were a curator and you wanted to display your work, which other designers, artists, and creative technologists would we see around you? What are the most important precedents of your project? (context) 
 
