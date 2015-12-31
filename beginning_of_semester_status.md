@@ -9,11 +9,13 @@
 Copy and paste these questions in a word processing application of your choice.
 Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
-* What is your thesis research aim? Discover by filling in the blanks below.
+* What is the aim of your thesis research? Discover by filling in the blanks.
 
-* I am trying to (learn about, work on, study)_________.
-* because I want to find out who/what/when/where/whether/
-why/how_________.
+I am trying to (learn about, work on, study)_________.
+
+because I want to find out who/what/when/where/whether/
+why/how .
+
     1. what you are writing about—your topic: I am studying . . .
     2. what you don’t know about it—your question: because I want to find out . . .
     3. why you want your reader to know about it—your rationale: in order to help my reader understand better . . .
