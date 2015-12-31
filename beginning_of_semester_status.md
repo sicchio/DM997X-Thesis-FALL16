@@ -27,7 +27,8 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **Where will we see it?** 
 
-* **Iteration production-what materials/space/resources will it take?** 
+* **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)?
+** 
 
 
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you answer the following question and write your thesis statement.
