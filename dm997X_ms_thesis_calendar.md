@@ -66,7 +66,7 @@
     </ul>
     </td> 
 </tr>
-tr>
+<tr>
     <td>Mon, Feb 08</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees and not receive a grade of 'W')</td> 
 </tr>
