@@ -159,6 +159,60 @@ You will be judged on the quality, iteration, completion, and presentation of yo
 * **C Inadequate** (Less than adequate work)
 * **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
+*Concept*
+
+* Is the student able to articulate the core concepts and experience of their
+project? 
+* How well formulated, well considered, and cogent is the student’s thesis concept?
+
+*Communication*
+
+* How well is the student able to express their ideas, both verbally and with other
+forms of communication including writing, drawing, mapping, modeling, pre-visualizing
+etc?
+
+*Presentation*
+
+* Is the student able to conceptualize, design and plan a suitable means of
+presenting their project through exhibition, demonstration, performance and/or
+lecture? 
+
+*Critical Thinking*
+
+* To what degree has the student demonstrated critical thinking skills over the
+course of the semester? 
+* Is the student reflecting on and questioning form,
+methodology, materials, utility, ergonomics, aesthetics, style, culture, experience,
+research, and process?
+
+*Creative Process*
+
+* Is the student incorporating proper use of problem identification, ideation,
+analysis, research, writing, budget/costs,
+feasibility, testing and iteration? 
+* Is the student advancing their project through
+research, prototyping and writing?
+
+*Contextualization*
+
+* Is the student able to connect their work and ideas to historical and contemporary
+precedents, and to situate their work within a domain practice? 
+
+*Evaluation*
+
+* Can the student evaluate their projects’ successes and failures?
+
+*Integration and Appropriate Use of Technology*
+
+* Is the student making good choices about the form and type of technology they
+are using to give form to their design concepts? 
+* Is the student able to integrate
+technology into the conceptualization of their projects?
+
+*Production and Time Management*
+
+* Is the student able to scale their project to the appropriate time frame and
+technical/design resources at their disposal?
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
