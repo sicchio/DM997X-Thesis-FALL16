@@ -260,7 +260,7 @@
 <td><b>Thanksgiving Holiday</b> No Class</td>
 </tr>
 <tr>
-    <td>Wed, May 04 Dec 02</td>
+    <td>Wed, May 04</td>
     <td>
     <strong>Homework</strong>
     <ul>
