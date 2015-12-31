@@ -23,14 +23,14 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **What is its form?** 
 
-* **Who will use it? Who will be changed by it? Who cares?**  
+* **Who will use it? Who will be changed by it? Who cares?** (audience)
 
 * **Where will we see it?** 
 
-* **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)?
+* **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)? (methodology)
 ** 
 
-* **Where does your project fit? Whose shoulders do you stand on? Who are your peers? (Anyone doing the same work at other universities?)** 
+* **Where does your project fit? Whose shoulders do you stand on? Who are your peers? (Anyone doing the same work at other universities?)** (context) 
 
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you answer the following question and write your thesis statement.
 
