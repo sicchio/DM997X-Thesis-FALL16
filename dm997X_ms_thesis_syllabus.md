@@ -195,6 +195,8 @@ analysis, research, writing, budget/costs,
 feasibility, testing and iteration? 
 * Is the student advancing their project through
 research, prototyping and writing?
+* Are students recording their findings and
+processes on their website so that their knowledge can be shared with others and for reflection?
 
 *Contextualization*
 
@@ -218,10 +220,8 @@ technology into the conceptualization of their projects?
 * Is the student able to scale their project to the appropriate time frame and
 technical/design resources at their disposal?
 
-*Process*
 
-* Are students recording their findings and
-processes on their website so that their knowledge can be shared with others and for reflection?
+
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
