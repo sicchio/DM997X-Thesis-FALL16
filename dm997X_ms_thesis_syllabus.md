@@ -199,7 +199,8 @@ research, prototyping and writing?
 *Contextualization*
 
 * Is the student able to connect their work and ideas to historical and contemporary
-precedents, and to situate their work within a domain practice? 
+precedents, and to situate their work within within the larger discourse
+surrounding ideas of design, art and creative technology?
 
 *Evaluation*
 
