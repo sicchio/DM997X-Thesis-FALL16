@@ -20,12 +20,12 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
     
     
 * **What are 5 keywords or hashtags that define your thesis?**
+
 * **What is its form?** 
+
 * **Who will use it? Who will be changed by it?**  
+
 * **Where will we see it?** 
-
-
-
 
 
 
