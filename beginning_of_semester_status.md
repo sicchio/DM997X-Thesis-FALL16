@@ -10,6 +10,7 @@ Copy and paste these questions in a word processing application of your choice.
 Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 
+
 * **List your name:**
 
 * **What are your career goals?** (What are the next steps for your IDM post-graduation? What industry/industries are you targeting? Are you targeting any particular companies or organizations?)
@@ -19,6 +20,7 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
     
     
 * **List your thesis advisor:**
+
 
 
 * **Why have you chosen at this particular time to investigate your chosen thesis?**
