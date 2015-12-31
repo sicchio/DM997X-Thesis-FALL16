@@ -9,11 +9,11 @@
 Copy and paste these questions in a word processing application of your choice.
 Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
-* What is the aim of your thesis research? Discover by filling in the blanks.
+* What is the aim of your thesis research? Discover by filling in the blanks. Refer to chapters 3 and 4 in Wayne Booth's The Craft of Research.
 
-    * I am trying to (learn about, work on, study)_________.
-    * because I want to find out who/what/when/where/whether/why/how_________.
-    * in order to help my audience (do, understand how, etc.)_________. 
+    * Topic: I am trying to (learn about, work on, study)_________.
+    * Question: because I want to find out who/what/when/where/whether/why/how_________.
+    * Significance: in order to help my audience (do, understand how, etc.)_________. 
 
 
     * what you are writing about—your topic: I am studying . . .
