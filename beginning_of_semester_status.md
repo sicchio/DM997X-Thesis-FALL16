@@ -12,9 +12,8 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 * What is the aim of your thesis research? Discover by filling in the blanks.
 
     * I am trying to (learn about, work on, study)_________.
-
-    *because I want to find out who/what/when/where/whether/
-why/how .
+    * because I want to find out who/what/when/where/whether/why/how_________.
+    * in order to help my audience (do, understand how, etc.)_________. 
 
 
     * what you are writing about—your topic: I am studying . . .
