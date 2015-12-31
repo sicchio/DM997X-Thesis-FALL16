@@ -7,7 +7,7 @@
 
 You should have a **dedicated**, thesis website to document your **weekly** progress/process of your MS Thesis. Students are expected to share their progress with others using their process website.
 * Ideally in wordpress, under your own domain name with a "thesis" folder. See Ernie's link below under Example Process Websites. 
-    * I recommend http://siteground.com for purchasing a domain and web hosting.
+    * I recommend [Siteground](http://siteground.com) for purchasing a domain and web hosting.
 * Second best, is hosting on http://sites.bxmc.poly.edu
  * You can receive web space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web space.
  * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
