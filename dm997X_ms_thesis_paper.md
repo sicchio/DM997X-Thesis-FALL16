@@ -21,6 +21,9 @@ Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.e
 
 * First, ask yourself what question is your research trying to answer? (Please reference the above link.)
 
+"Questions that ask who, what, when, or where are important, but they may ask only about matters of
+settled fact (though not always). Questions that ask *how** and **why** are more likely to invite deeper research and lead to more interesting answers." - The Craft of Research by Wayne Booth
+
 ## Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
