@@ -23,7 +23,7 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **What is its form?** 
 
-* **Who will use it? Who will be changed by it?**  
+* **Who will use it? Who will be changed by it? Who cares?**  
 
 * **Where will we see it?** 
 
