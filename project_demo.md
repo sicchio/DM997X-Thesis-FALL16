@@ -33,7 +33,7 @@ Rules of the Critique:
 
 ###Be prepared to discuss the following
 From Stephanie Houde and Charles Hill's What do Prototypes prototype?, prototypes provide a means to 
-* Examine design problems
+examine design problems
 * Select the focus of a prototype to answer design questions: what it does and does not explore
 * Evaluate whether the prototype works or not
 
