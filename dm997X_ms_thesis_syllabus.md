@@ -35,6 +35,9 @@ The Thesis Project can take many forms, including but not limited to the followi
 * audio (podcast, etc.)
 * print medium
 
+Thesis research is conducted to find 
+* our CONTEXT in the specific realm of knowledge we are engaging in and 
+* what remains to be an *open question* where we can contribute our voice in the form of a project. 
 
 ### PROGRAM GOALS
 
