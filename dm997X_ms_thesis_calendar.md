@@ -315,7 +315,7 @@
     <li><strong>Exit Interview Survey</strong> (will be emailed to you)</li></td>
 </tr>
 <tr>
-    <td>by or before Dec 23</td>
+    <td>by or before Tue May 17</td>
     <td><strong>2 Bound Copies of Your Thesis Paper on acid-free paper due to Eric Maiello.</strong> 
     <ul>
     <li>If you want a bound copy for yourself, bind 3.</li>
