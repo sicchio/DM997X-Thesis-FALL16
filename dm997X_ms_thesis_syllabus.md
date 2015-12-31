@@ -220,7 +220,7 @@ technical/design resources at their disposal?
 *Process*
 
 Are students recording their findings and
-processes on their website so that their knowledge can be shared with others and for reflection.
+processes on their website so that their knowledge can be shared with others and for reflection?
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
