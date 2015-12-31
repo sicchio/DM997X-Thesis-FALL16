@@ -21,6 +21,10 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
     
 * **What are 5 keywords or hashtags that define your thesis?**
 
+* What are the thematic ways to look at your thesis? 
+
+* **What is the core concept of your thesis?** 
+
 * **What is its form?** 
 
 * **Who will use it? Who will be changed by it? Who cares?** (audience)
