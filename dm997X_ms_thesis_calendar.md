@@ -287,7 +287,7 @@
     </ul></td>
 </tr>
 <tr>
-    <td>Dec 7-11 (up to 4 per day)</td>
+    <td>Thu, May 5, Fri May 6, Mon May 9, Tue May 10 (up to 4 per day)</td>
     <td>
     <strong>Homework</strong>
     <ul>
