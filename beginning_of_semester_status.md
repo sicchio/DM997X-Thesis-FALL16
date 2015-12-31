@@ -30,7 +30,7 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 * **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)?
 ** 
 
-* Where does your project fit? Whose shoulders do you stand on? Who are your peers? (Anyone doing the same work at other universities?) 
+* **Where does your project fit? Whose shoulders do you stand on? Who are your peers? (Anyone doing the same work at other universities?)** 
 
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you answer the following question and write your thesis statement.
 
