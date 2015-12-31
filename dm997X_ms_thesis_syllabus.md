@@ -30,7 +30,7 @@ Thesis Projects must go beyond concept and idea; they must be fully realized and
 * a physical object, musical instrument, physical game, or interactive installation
 * a performance or event, 
 * a moving image (animation, film, motion graphics, video web series, etc.)
-* an audio podcast
+* audio (podcast, etc.)
 * print medium
 
 
