@@ -309,7 +309,7 @@
     <strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
 </tr>
 <tr>
-    <td>Dec 12-18</td>
+    <td>May 5-17</td>
     <td><ul>
     <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due</li>
     <li><strong>Exit Interview Survey</strong> (will be emailed to you)</li></td>
