@@ -265,7 +265,8 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED BOOK
 
-* [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research) by by Wayne C. Booth and Gregory G. Colomb, and Joseph M. Williams
+
 
 ### REQUIRED ARTICLE
 * [Personal Productivity](http://paulklipp.com/images/PersonalProductivity.pdf) by Paul Klipp
