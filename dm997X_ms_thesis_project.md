@@ -13,8 +13,8 @@ Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters
 
 * <strong>Gold</strong> is when all the bugs in your project have been fixed and quality is assured. It is ready to go public.
 
-
-
+## USER TESTING
+You should be [conducting research](dm997X_ms_thesis_research.md) and user testing throughout the ENTIRE semester. Do not wait until the last minute to begin user testing; User testing gives you invaluable feedback about your project. Include the results of your user testing in your thesis paper.
 
 
 
