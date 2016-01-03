@@ -306,7 +306,7 @@
     </ul></td>
 </tr>
 <tr>
-    <td>Thu May 5, Fri May 6, Mon May 9, Tue May 10 (up to 4 per day)</td>
+    <td>Thu May 5, Fri May 6, Mon May 9, Tue May 10 (up to 5 per day)</td>
     <td>
     <strong>Homework</strong>
     <ul>
