@@ -214,7 +214,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 ## Assignment: Proofread
 BEFORE you proofread, read: 
 * [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar](http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
-* Chapter 17: Revising Style: Telling Your Story Clearly of [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research).
+* Chapter 17 Revising Style: Telling Your Story Clearly of [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research).
 
 
 
