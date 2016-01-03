@@ -118,8 +118,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
     * *Related Work or Precedents:* Who-is-doing-what in relation to your research area(s). 
      * Compare and contast similar projects by other artists, designers, or creative technologists to yours. 
      * Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
-    * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
-        * You should decide what kinds of research / reference / inspiration is most appropr
+    * You should decide what kinds of research / reference / inspiration is most appropriate for your project.
 
 ## Assignment: Body (Process)
 I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
