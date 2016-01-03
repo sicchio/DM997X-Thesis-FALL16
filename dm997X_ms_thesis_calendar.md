@@ -27,7 +27,7 @@
     <td>Wed, Jan 27</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
+    
     <li>(if you have not done so already) direct message me on Slack your accountability partner (which must be a classmate). You can look at the accountability page to see who has already teamed up.</li>
     </ul>
     <strong>Class</strong>
