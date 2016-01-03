@@ -98,7 +98,7 @@ BEFORE you write your body, read:
  * 14 Revising Your Organization and Argument
 
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
-
+* **Background**
 * Provide background information on research topic
 * **Discuss Your motivation, drive, and/or purpose**
 (Why are you doing this thesis? What are you discovering here? What questions are you asking? What are you exploring?)
