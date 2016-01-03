@@ -159,8 +159,9 @@ I recommend the following chapters. However, you can change the nomenclature or 
         <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li>
         </ul>
      
-    * What did each prototype explore?
-    * Discuss whether the prototype worked or not.
+
+ * What did each prototype explore?
+ * Discuss whether the prototype worked or not.
 
 
 * **Findings and Discussion**
