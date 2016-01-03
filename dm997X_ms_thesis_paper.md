@@ -100,7 +100,6 @@ BEFORE you write your body, read:
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Provide background information on research topic
-* Justify the need for your study
 * **Discuss Your motivation, drive, and/or purpose**
 (Why are you doing this thesis? What are you discovering here? What questions are you asking? What are you exploring?)
 * **Identify Target Audience**
@@ -114,16 +113,22 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Show initiative (in sourcing information)
 * Produce clear, achievable research objectives
 * Emphasize the value of/need for your research
+* **Research**
+    * *Literature Review:* Who-is-writing-what in relation to your research area(s).
+    * *Related Work or Precedents:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
+    * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
+        * You should decide what kinds of research / reference / inspiration is most appropr
 
 ## Assignment: Body (Process)
 I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
 
  * **Research**
-    * *Literature Review:* Who-is-writing-what in relation to your research area(s).
-    * *Related Work or Precedents:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
-    * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
+   
+    * Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
-    * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
+
+* **Research Methods:** 
+    * Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
       * Identify your research strategy (case study, survey, grounded theory, experimental research, etc.)
       * Justify why your chosen research strategy meets your research needs  
       * Describe your data collection techniques (interviews, questionnaires, documents, observation, types of experiments, etc.)
