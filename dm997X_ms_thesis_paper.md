@@ -21,7 +21,7 @@ What do I mean by COMPILED thesis paper?
 * Read **Chapter 3 From Topics to Questions from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)**.
 
 
-    Ask yourself what question is your research trying to answer? (Please reference the above link.)
+    Ask yourself what question is your research trying to answer? 
 
 "Questions that ask who, what, when, or where are important, but they may ask only about matters of
 settled fact (though not always). Questions that ask *how** and **why** are more likely to invite deeper research and lead to more interesting answers." - [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
@@ -33,7 +33,7 @@ settled fact (though not always). Questions that ask *how** and **why** are more
 * Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
 
-    Turn the above question into a statement. (Please reference the above link.) Do not use **I** in your thesis statement.
+    Turn the above question into a statement. Do not use **I** in your thesis statement.
 
 Here's a guide for a starting point: 
 
