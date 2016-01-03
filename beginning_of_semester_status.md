@@ -31,7 +31,7 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
     * **Is it a final or working title?**
     
    
-* **What are 5 keywords or hashtags that define your thesis?**
+* **What are *at least* 3 keywords or hashtags that define your thesis?**
 
 * **What are the themes of your thesis?** (You may repeat 1 or 2 words from previous message if it applies.)
 
