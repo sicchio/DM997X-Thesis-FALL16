@@ -207,6 +207,7 @@ General Notes adopted from [The Craft of Research, 3rd Edition](http://www.amazo
 * Announce key themes
 * State the main point or a launching point that anticipates the
 main point
+* Include your thesis statement
 * Keep to one paragraph (it is not an essay!)
 
 
