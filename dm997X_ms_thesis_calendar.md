@@ -58,7 +58,7 @@
     <td><strong>Homework</strong>
     <ul>
     <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
-    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
+    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft) and  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
      <li>Share the items in the above bullet with your accountability partner.</li>
     </ul>
