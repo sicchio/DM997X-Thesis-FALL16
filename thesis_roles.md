@@ -8,7 +8,7 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 
 ###Thesis Project Advisor
 
-* The Thesis Project Advisor will meet with their Thesis Project Advisee *at least* 2 times (or more depending on the project advisor's preference and availability.) throughout the semester to give feedback on the thesis paper, project, and/or defense presentation. 
+* The Thesis Project Advisor will meet with their Thesis Project Advisee *at least* 2 times (or more depending on the project advisor's preference and availability.) throughout the semester to give feedback on the thesis paper, project, and/or defense presentation. At least one meeting should be conducted before midterms, and at least one should be conducted after midterms.
 
 * The Thesis Student will document the meetings (date, time, length, and typed notes) on their process website. 
 
