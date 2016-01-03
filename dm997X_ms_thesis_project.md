@@ -11,13 +11,13 @@ You should be [conducting research](dm997X_ms_thesis_research.md) and user testi
 
     Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
 
-## Assignment: Alpha Version of Project
+## Alpha Version of Project
 <strong>Alpha</strong> is the testing phase of form and functionality for your project.
 
-## Assignment: Beta Version of Project
+## Beta Version of Project
 <strong>Beta</strong> is when the functionality, form, and implementation of your project is complete as possible. It is ready for user testing.
 
-## Assignment: Gold Version of Project
+## Gold Version of Project
 <strong>Gold</strong> is when all the bugs in your project have been fixed and quality is assured. It is ready to go public.
 
 
