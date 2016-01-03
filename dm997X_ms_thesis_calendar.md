@@ -3,7 +3,7 @@
 
 ---
 # CALENDAR
-
+###Subject to Change before semester begins due to the final number of students enrolled.
 <table>
 <tr>
     <td width="15%">DUE DATE<br>
@@ -14,7 +14,7 @@
     <td>Before Class Begins</td>
     <td>
     <ul>
-    <li>Accept the request to <strong>join Slack</strong>.</li>
+    <li>Accept the request to <strong>join Slack</strong> when received.</li>
     <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on gitbook and be prepared to ask questions on first day of class.</li>
     <li><strong>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></strong></li>
     <li><strong>Begin Reading <a href="https://getit.library.nyu.edu/go/6809674" target="_blank">Succeeding with your master's dissertation a step-by-step handbook</a> by John Biggam</li>
