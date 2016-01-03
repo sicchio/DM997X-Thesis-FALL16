@@ -46,7 +46,7 @@ This website should market and promote your body of work for possible employment
 ## LETTER TO NEXT COHORT 
 
 *As a pdf, direct message to deangela on Slack.*
-* Please name your file as firstnameinitiallastname_thesis_fa15_letter.pdf (i.e. dduff_thesis_sp16_letter.pdf) 
+* Please name your file as firstnameinitiallastname_thesis_sp16_letter.pdf (i.e. dduff_thesis_sp16_letter.pdf) 
 * Also make sure that you  have a header within the actual document.  i.e. Your Name / Spring 2016 /  IDM MS Thesis / Letter to Next Cohort.
 
 Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
