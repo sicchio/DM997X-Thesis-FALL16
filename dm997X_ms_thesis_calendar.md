@@ -161,7 +161,10 @@
     </ul> 
     </td> 
 </tr>
-
+<tr>
+    <td>Thu, Mar 10 or Fri, Mar 11</td>
+    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
+</tr>
 <tr>
     <td>Wed, Mar 16</td>
     <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
@@ -198,10 +201,7 @@
     </ul> 
     </td> 
 </tr>
-<tr>
-    <td>Thu, Mar 31 or Fri, Apr 1</td>
-    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
-</tr>
+
 <tr>
     <td>Fri, Apr 1</td>
     <td><strong><i>LAST DAY TO WITHDRAW</i></strong></td> 
