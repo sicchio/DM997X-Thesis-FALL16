@@ -164,7 +164,7 @@ I recommend the following chapters. However, you can change the nomenclature or 
 
 
 * **Findings and Discussion**
- * Discuss and evaluate **User Testing Results:** Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
+ * Discuss and evaluate **User Testing Results,** Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Precedents.
  * Summarize main empirical findings
  * Place evidence of (non-confidential) empirical research in appendices (questionnaires, interview transcripts/notes, experiment results, etc.)
 
