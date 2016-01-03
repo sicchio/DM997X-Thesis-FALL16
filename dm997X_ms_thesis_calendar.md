@@ -288,7 +288,7 @@
     <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
     <li>Direct Message me on slack your compiled thesis paper as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
     </ul>
-    <li><strong>Compile Final <a href="dm997X_ms_thesis_paper.md">Thesis Paper</a></strong>, including the preliminaries (most notably the Table of Contents) in one pdf. Consult the templates pinned on slack. Also make sure you include your name in the filename of any file you submit to someone else. Once I download a file to my computer, I don't know whose paper it is until I open it if it does not have your name in the filename.</li>
+    <li><strong>Compile your Final <a href="dm997X_ms_thesis_paper.md">Thesis Paper</a></strong>, including the preliminaries (most notably the Table of Contents) in one pdf. Consult the templates pinned on slack. Also make sure you include your name in the filename of any file you submit to someone else. Once I download a file to my computer, I don't know whose paper it is until I open it if it does not have your name in the filename.</li>
     
     
   </ul>  
