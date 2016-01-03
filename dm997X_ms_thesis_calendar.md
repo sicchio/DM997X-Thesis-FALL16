@@ -3,7 +3,7 @@
 
 ---
 # CALENDAR
-###Subject to Change drastically before semester begins based on the final number of students enrolled.
+###Dates are subject to change drastically before semester begins based on the final number of students enrolled.
 <table>
 <tr>
     <td width="15%">DUE DATE<br>
