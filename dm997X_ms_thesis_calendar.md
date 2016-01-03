@@ -215,7 +215,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold</a></strong> for ALL students.</li>
+    <li></li>
     </ul> 
     
     </td> 
@@ -306,9 +306,7 @@
     <td>
     <strong>Homework</strong>
     <ul>
-    
     <li>Rehearse your Mock Thesis Defense with your accountability partner as many times as needed. I'd also suggest filming yourself and reviewing the footage.</li>
-    
     </ul>
     
     <strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
