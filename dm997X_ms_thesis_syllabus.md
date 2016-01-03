@@ -265,12 +265,14 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED BOOK
 
-* [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research) by by Wayne C. Booth and Gregory G. Colomb, and Joseph M. Williams
-* [The Mac is not a Typewriter]() by Robin Williams
+* [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research) by by Wayne Booth, Gregory Colomb, and Joseph Williams
 
-### REQUIRED ARTICLE
+
+### REQUIRED ARTICLES
+They will be pinned on slack.
 * [Personal Productivity](http://paulklipp.com/images/PersonalProductivity.pdf) by Paul Klipp
- 
+* Specific Chapters from The Mac is not a Typewriter by Robin Williams
+
 ### REQUIRED MEDIA
 
 * [Asking A More Beautiful Question With Warren Berger](https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger) (Start listening to the podcast around 22 minutes INTO the podcast...)
