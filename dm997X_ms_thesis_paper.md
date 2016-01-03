@@ -109,10 +109,9 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
     </ul>
 (Who is this thesis for? Please note that everyone is not a valid answer. Target is the key word here.)
  * Identify overall research focus and specific research objectives
- * Outline your research plan / methods
- * Show initiative (in sourcing information)
- * Produce clear, achievable research objectives
- * Emphasize the value of/need for your research
+
+
+
 * **Context**
     * *Literature Review:* Who-is-writing-books, articles, etc. in relation to your research area(s).
         * Other media? narrative or documentary film? 
@@ -121,6 +120,12 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
      * Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
     * You should decide what kinds of research / reference / inspiration is most appropriate for your project.
 
+
+* **Rationale**
+ * Outline your research plan / methods
+ * Produce clear, achievable research objectives
+ * Emphasize the value of/need for your research
+ 
 ## Assignment: Body (Process aka Methodology)
 I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
 
