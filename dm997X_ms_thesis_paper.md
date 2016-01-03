@@ -17,14 +17,16 @@ What do I mean by COMPILED thesis paper?
 **<font color="#ff0000">In addition to going to the writing center, please have someone other than yourself (or your project advisor for that matter) read and edit all of your writing before you turn it in.</font>** (Even better, have someone read your writing out loud to you.) Include that person's name [and their title and/or relationship with you (if not your accountability partner or other classmate)] at the top of each paper assignment as Editor.
 
 ##Assignment: Inciting Question
-Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
+* Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
+* Read **Chapter 3 From Topics to Questions from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)**.
 
-* First, ask yourself what question is your research trying to answer? (Please reference the above link.)
+
+    * First, ask yourself what question is your research trying to answer? (Please reference the above link.)
 
 "Questions that ask who, what, when, or where are important, but they may ask only about matters of
 settled fact (though not always). Questions that ask *how** and **why** are more likely to invite deeper research and lead to more interesting answers." - [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
 
-Also read **Chapter 3 From Topics to Questions from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)**.
+
 
 ## Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
