@@ -97,4 +97,6 @@ steps of the creative process in relation to your thesis project.
  5. Craft- practical implementation, getting the job done.
  6. Surface-finishing, superficial face of the work-usually this is the easiest part.
 
+* **Why have you chosen at this particular time to investigate your chosen thesis?**
+
 **(OPTIONAL) Other comments:**
