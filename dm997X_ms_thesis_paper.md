@@ -96,7 +96,6 @@ BEFORE you write your body, read:
  * 12 Planning
  * 13 Drafting Your Report
  * 14 Revising Your Organization and Argument
- * 15 Communicating Evidence Visually
 
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
