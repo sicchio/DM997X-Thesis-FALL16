@@ -16,7 +16,7 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 
 * The Thesis Project Advisor agrees to attend the Thesis Defense Panel, and will be given a digital copy of the student's thesis paper for review (at least a week) BEFORE the Defense.
 
-* The Thesis Defense will be scheduled at a time that is good for the Thesis Project Advisor **AND** the External Reviewer sometime during **Mon 12/7 through Fri 12/11**. Date, Time, and Room to be determined.
+* The Thesis Defense will be scheduled at a time that is good for the Thesis Project Advisor **AND** the External Reviewer sometime during **Thu May 5, Fri May 6, Mon May 9, or Tue May 10**. Date, Time, and Room to be determined.
 
 ###External Reviewer (is identified in consultation with the Thesis Project Advisor.)
 
@@ -38,4 +38,4 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 
 * Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. 
 
-* Utilize IDM's grad studio MAGNET 804 to hold informal critiques, mock presentations, and discussion outside of class.
+* Utilize IDM's grad studio MAGNET 804 to hold informal critiques, mock presentations, and discussions outside of class.
