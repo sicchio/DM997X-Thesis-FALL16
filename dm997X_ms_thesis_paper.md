@@ -113,7 +113,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Show initiative (in sourcing information)
 * Produce clear, achievable research objectives
 * Emphasize the value of/need for your research
-* 
+
 ## Assignment: Body (Process)
 I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
 
