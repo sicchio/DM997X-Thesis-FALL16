@@ -29,8 +29,8 @@ settled fact (though not always). Questions that ask *how** and **why** are more
 
 
 ## Assignment: The “elevator pitch” / Thesis Statement
-* Read **Chapter 4: From Questions to a Problem of [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)**.
 * Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
+* Read **Chapter 4: From Questions to a Problem of [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)**.
 
 
     Turn the above question into a statement. Do not use **I** in your thesis statement.
