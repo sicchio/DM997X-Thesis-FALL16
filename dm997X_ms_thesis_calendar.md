@@ -46,6 +46,8 @@
        </ul>
        <li>Discuss <a href="http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research" target="_blank">The Craft of Research, 3rd Edition</a> by Wayne Booth, Gregory Colomb, and Joseph Williams</li>
        
+       
+       
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
         <li>Discuss <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your <a href="project_milestones.md" target="_blank">project milestones</a></li>
