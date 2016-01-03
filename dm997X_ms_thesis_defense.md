@@ -58,7 +58,7 @@ The second signature page is not in the guidelines. Consult the word template, M
 * If your thesis is approved, you will have to bind 2 copies. If you want a bound copy for yourself, bind 3. 
 * It takes a minimum of 5 days to bind. 
 * The place to bind it is within [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)<br>(also as Masters_Thesis_Project_Guidelines_March2014_version.pdf on slack under Files).
-* The 2 bound copies are due to Eric Maiello BEFORE 12/23.
+* The 2 bound copies are due to Eric Maiello BEFORE May 17th.
 * The entire thesis should be printed on acid free paper.
 * Make sure to include the signed signature pages for binding.
 
