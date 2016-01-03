@@ -23,11 +23,14 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 * **List your name:**
 
 * **What are your career goals?** (What are the next steps for your IDM post-graduation? What industry/industries are you targeting? Are you targeting any particular companies or organizations?)
+
+* Identify your [accountability partner](https://deangela.gitbooks.io/ms-thesis-in-digital-media-spring-2016/content/accountability_partners.html) (after confirming this with them.)
+
 * **List your thesis title:**
 
     * **Is it a final or working title?**
     
-    
+   
 * **What are 5 keywords or hashtags that define your thesis?**
 
 * **What are the themes of your thesis?** (You may repeat 1 or 2 words from previous message if it applies.)
