@@ -37,8 +37,9 @@
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
        <li>Discuss Process (Research, Design, and Build)
        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+       <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack</li>
        <li>Discuss <a href="http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research" target="_blank">The Craft of Research, 3rd Edition</a> by Wayne Booth, Gregory Colomb, and Joseph Williams</li>
-       <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
+       
        <li>Discuss Groups A and B</li>
        <li>Discuss Accountability Partners</li>
        <li>Class Discussion: Your Productivity System</li>
