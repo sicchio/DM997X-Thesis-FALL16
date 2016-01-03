@@ -18,7 +18,7 @@
     <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on gitbook and be prepared to ask questions on first day of class.</li>
     <li><strong>Read <a href="http://paulklipp.com/images/PersonalProductivity.pdf">Personal Productivity</a></strong> by Paul Klipp</li>
     <li><strong>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></strong></li>
-    <li><strong>Begin Reading <a href="http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research" target="_blank">The Craft of Research, 3rd Edition</a></strong> by Wayne Booth, Gregory Colomb, and Joseph Williams</li>
+    <li><strong>Begin Reading <a href="http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research" target="_blank">The Craft of Research, 3rd Edition</a></strong> by Wayne Booth, Gregory Colomb, and Joseph Williams, starting with chapter 3</li>
     <li><strong>Submit the <a href="beginning_of_semester_status.md">MS Thesis Beginning of Semester Status doc</a></strong>.</li>
     <li>(OPTIONAL) Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values.</li>
     </ul></td>    
