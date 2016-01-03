@@ -26,10 +26,10 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 * They should be local (in NYC).
 
 * The spectrum of possibilities include external to IDM (which is totally ok) and external to NYU (the best case scenario).
-*
+
 * The Thesis Project Advisor will be the primary recommender for the external reviewer.
 
-* The student will be the secondary recommender.
+* The Student will be the secondary recommender.
 
 * The Thesis Faculty will be the third recommender.
 
