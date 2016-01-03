@@ -39,7 +39,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 * There will be 20 minutes of Q&A.
 * There will be 20 minutes of deliberation by your Thesis Panel.
 
-Bring *2 copies of the signature pages on acid-free paper* (what you will also print the final Thesis on) or 3 copies if you want to get a bound copy for yourself to the Defense for signing. It is your responsibility to remember to get these signature pages signed at the thesis defense.
+Bring *2 copies of the signature pages on acid-free paper* (what you will also print the final Thesis on) or 3 copies if you want to get a bound copy for yourself to the Defense for signing. It is your responsibility to remember to get these signature pages signed.
 
 Please note that there are two different signature pages.
 
@@ -59,6 +59,8 @@ The second signature page is not in the guidelines. Consult the word template, M
 * It takes a minimum of 5 days to bind. 
 * The place to bind it is within [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)<br>(also as Masters_Thesis_Project_Guidelines_March2014_version.pdf on slack under Files).
 * The 2 bound copies are due to Eric Maiello BEFORE 12/23.
+* The entire thesis should be printed on acid free paper.
+* Make sure to include the signed signature pages for binding.
 
 
 
