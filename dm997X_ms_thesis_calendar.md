@@ -259,6 +259,7 @@
 <td>
 <strong>Homework</strong>
 <uL>
+<li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
 <li>Direct message deangela on slack <strong>a flyer to promote your defense on the MAGNET screens and BxMC facebook page</strong>.</li>
     <ul>
     <Li>Dimensions should be 1920x1200</li>
