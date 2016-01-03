@@ -29,7 +29,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 </table>
 
 ## BEFORE THE THESIS DEFENSE
-* Send your project advisor and thesis instructor a PDF of your complete thesis paper draft **at least a week (preferably a week) before your thesis defense** so either your project advisor or thesis faculty can send it to your external examiner. 
+* Send your project advisor and thesis instructor a PDF of your complete thesis paper draft **at least a weekend (preferably a week) before your thesis defense** so either your project advisor or thesis faculty can send it to your external examiner. 
 * You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
 
 
