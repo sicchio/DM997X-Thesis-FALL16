@@ -281,7 +281,7 @@
     <li>Discuss Wasserman Center's Resume Book (info pinned on slack)</li>
     <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
     <li>Discuss <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a> and version control</li>
-    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic, ?</strong>, for any student who would like more feedback. I would encourage the majority of you to do so.</li>
+    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic: ?</strong>, for any student who would like more feedback. I would encourage the majority of you to do so.</li>
     <li>(If time) Review of portfolio sites, cover letters, and resumes.</li>
     </ul>
     
