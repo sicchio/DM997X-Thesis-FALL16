@@ -203,11 +203,10 @@ BEFORE you write your abstract, read:
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Write it last! 
-* Identify the problem/issue that you investigated 
-* Outline how you did your research (i.e. your research methods)
-* State your main findings/conclusion(s) 
-* Indicate your recommendations 
-* Include keywords 
+* State the research problem
+* Announce key themes
+* State the main point or a launching point that anticipates the
+main point
 * Keep to one paragraph (it is not an essay!)
 
 
