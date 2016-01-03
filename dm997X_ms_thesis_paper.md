@@ -80,7 +80,8 @@ Recommended structure:
     * Subsection Key Points
   * Section Key Points
 
-## Assignment: Body 
+## Assignment: Body (Background/Context/Rationale)
+
 
 I recommend you use some sort of version control for keeping track of drafts of your writing. 
 * I'd highly recommend writing your paper using **github** (the best version control out there.)
@@ -95,6 +96,24 @@ BEFORE you write your body, read:
  * 14 Revising Your Organization and Argument
  * 15 Communicating Evidence Visually
 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
+
+* Provide background information on research topic
+* Justify the need for your study
+* **Discuss Your motivation, drive, and/or purpose**
+(Why are you doing this thesis? What are you discovering here? What questions are you asking? What are you exploring?)
+* **Identify Target Audience**
+    <ul>
+    <li>Who cares? Who will care? Who is your target audience?)</li>
+    <li>What do you want your target audience to experience when they interact with your thesis?</li>
+    </ul>
+(Who is this thesis for? Please note that everyone is not a valid answer. Target is the key word here.)
+* Identify overall research focus and specific research objectives
+* Outline your research plan / methods
+* Show initiative (in sourcing information)
+* Produce clear, achievable research objectives
+* Emphasize the value of/need for your research
+* 
 ## Assignment: Body (Process)
 I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
 
@@ -158,23 +177,6 @@ General Notes adopted from [The Craft of Research, 3rd Edition](http://www.amazo
 
 * Context + Problem + Response
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
-
-* Provide background information on research topic
-* Justify the need for your study
-* **Discuss Your motivation, drive, and/or purpose**
-(Why are you doing this thesis? What are you discovering here? What questions are you asking? What are you exploring?)
-* **Identify Target Audience**
-    <ul>
-    <li>Who cares? Who will care? Who is your target audience?)</li>
-    <li>What do you want your target audience to experience when they interact with your thesis?</li>
-    </ul>
-(Who is this thesis for? Please note that everyone is not a valid answer. Target is the key word here.)
-* Identify overall research focus and specific research objectives
-* Outline your research plan / methods
-* Show initiative (in sourcing information)
-* Produce clear, achievable research objectives
-* Emphasize the value of/need for your research
 
 
 ## Assignment: Conclusion
