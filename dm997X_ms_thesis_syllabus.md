@@ -233,9 +233,9 @@ If you are student with a disability who is requesting accommodations, please co
 ### PDFs
 Any printed assignments should be saved as a pdf, and contain your name in the filename: 
 
-* All PDFs should be labeled as follows *firstnameLastname_assignmentName_date.pdf* (deangeladuff_resume_2015jan03.pdf)
+* All PDFs should be labeled as follows *firstnameLastname_assignmentName_date.pdf* (deangeladuff_resume_2016jan03.pdf)
 
-* All REVISED DOCS should be labeled as follows *firstnamelastname_assignmentName#_date.pdf* (deangeladuff_resume2_2015feb27.pdf)
+* All REVISED DOCS should be labeled as follows *firstnamelastname_assignmentName#_date.pdf* (deangeladuff_resume2_2016feb27.pdf)
 
 
 ### ADDITIONAL INFO REGARDING PRINTING
