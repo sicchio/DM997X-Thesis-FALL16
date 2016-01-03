@@ -4,6 +4,7 @@
 * [Beginning of Semester Status](beginning_of_semester_status.md)
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
+* [Project Milestones](project_milestones.md)
 * [Groups](dm997X_ms_thesis_groups.md)
 * [Accountability Partners](accountability_partners.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
@@ -16,5 +17,4 @@
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
 * [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * [Recommended Resources](dm997x_ms_thesis_resources.md)
-* [Project Milestones](project_milestones.md)
 
