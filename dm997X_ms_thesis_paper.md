@@ -193,9 +193,8 @@ Add a New Significance or Application
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
 * Remind reader of your initial research objectives  
-* Summarize Literature Review, Comparative Analysis, and Research findings (related to research objectives) 
 * Elicit main conclusions from your findings
-* Offer recommendations (specific to your research objectives), including ideas about implementation
+* Offer recommendations (specific to your research objectives), including ideas about future implementation
 * Include self-reflection (limitations of study, lessons learnt, advice to others)
 
 
