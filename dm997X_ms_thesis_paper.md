@@ -164,14 +164,9 @@ I recommend the following chapters. However, you can change the nomenclature or 
 
 
 * **Findings and Discussion**
-
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam
-
-* **User Testing Results:** Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
-* Stick to your framework for analysis (if you have one!)
-* Keep focused on relevant research objective(s), thus avoiding drift 
-* Summarize main empirical findings
-* Place evidence of (non-confidential) empirical research in appendices (questionnaires, interview transcripts/notes, experiment results, etc.)
+ * Discuss and evaluate **User Testing Results:** Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
+ * Summarize main empirical findings
+ * Place evidence of (non-confidential) empirical research in appendices (questionnaires, interview transcripts/notes, experiment results, etc.)
 
 
 ## Assignment: Intro
