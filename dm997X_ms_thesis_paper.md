@@ -5,7 +5,7 @@
 
 # THESIS PAPER GUIDELINES
 
-For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates (pinned on Slack), as well as [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary).
+For standard formatting, consult Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates (pinned on Slack), as well as [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research) by by Wayne Booth, Gregory Colomb, and Joseph Williams.
 
 What do I mean by COMPILED thesis paper? 
 * The body AND the preliminaries (most notably the Table of Contents) in one pdf. 
@@ -22,7 +22,7 @@ Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.e
 * First, ask yourself what question is your research trying to answer? (Please reference the above link.)
 
 "Questions that ask who, what, when, or where are important, but they may ask only about matters of
-settled fact (though not always). Questions that ask *how** and **why** are more likely to invite deeper research and lead to more interesting answers." - The Craft of Research by Wayne Booth
+settled fact (though not always). Questions that ask *how** and **why** are more likely to invite deeper research and lead to more interesting answers." - The Craft of Research
 
 ## Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
