@@ -67,7 +67,7 @@
     </ul>
 <strong>Class</strong>    
     <ul>
-    <li>Class Discussion <a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Project Milestones /  <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+    <li>Class Discussion <a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: <a href="project_milestones.md" target="_blank">Project Milestones</a> /  <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul>
     </td> 
 </tr>
