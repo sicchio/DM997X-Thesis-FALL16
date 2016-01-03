@@ -289,11 +289,7 @@
     <td>
     <strong>Homework</strong>
     <ul>
-    
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    
-    
-    
     </ul>
     <strong>Class</strong>
     <ul>
