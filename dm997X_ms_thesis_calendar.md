@@ -153,7 +153,7 @@
     <td>Wed, Mar 09</td>
     <td><strong>Homework</strong>
     <ul>
-    <li><strong>Confirm External Examiner</strong>
+    
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
    
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
@@ -162,15 +162,12 @@
     </ul>
     <strong>Class</strong>
     <ul>
-     <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
+     
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
     </ul> 
     </td> 
 </tr>
-<tr>
-    <td>Thu, Mar 10 or Fri, Mar 11</td>
-    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
-</tr>
+
 <tr>
     <td>Wed, Mar 16</td>
     <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
@@ -180,6 +177,7 @@
     <td>
     <strong>Homework</strong>
     <ul>
+    <li><strong>Confirm External Examiner</strong></li>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
@@ -187,9 +185,13 @@
     </ul>
     <strong>Class</strong>
     <ul> 
-   <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+   <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
    </ul>
     </td> 
+</tr>
+<tr>
+    <td>Thu, Mar 24 or Fri, Mar 25</td>
+    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
 </tr>
 <tr>
     <td>Wed, Mar 30</td>
@@ -203,7 +205,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
     </ul> 
     </td> 
 </tr>
@@ -223,7 +225,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
     </ul> 
     
     </td> 
