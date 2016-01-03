@@ -89,13 +89,13 @@ I recommend you use some sort of version control for keeping track of drafts of 
 
 BEFORE you write your body, read:
 * [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
-* 
+* The following chapters in [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research).
+ * 12 Planning
+ * 13 Drafting Your Report
+ * 14 Revising Your Organization and Argument
+ * 15 Communicating Evidence Visually
 
-12 Planning
-13 Drafting Your Report
-14 Revising Your Organization and Argument
-15 Communicating Evidence Visually
-*I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.*
+I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.*
 
  * **Research**
     * *Literature Review:* Who-is-writing-what in relation to your research area(s).
