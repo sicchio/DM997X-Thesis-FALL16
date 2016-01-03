@@ -206,6 +206,7 @@
     <strong>Class</strong>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+    <li>Discuss External Examiners</li>
     </ul> 
     </td> 
 </tr>
