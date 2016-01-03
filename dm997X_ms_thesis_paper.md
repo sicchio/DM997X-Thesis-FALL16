@@ -135,7 +135,8 @@ I recommend the following chapters. However, you can change the nomenclature or 
       * Justify why your chosen research strategy meets your research needs  
       * Describe your data collection techniques (interviews, questionnaires, documents, observation, types of experiments, etc.)
       * Explain where you will get your data, and state your sample size– Summarize the above, using diagrams where possible
-      * Explain how you will analyse your collected data (framework for data analysis)* Outline limitations/potential problems (but explain why your work is valid and reliable)
+      * Explain how you will analyse your collected data (framework for data analysis)
+      * Outline limitations/potential problems (but explain why your work is valid and reliable)
 
 
 * **Design** (including, but not limited to)
