@@ -159,7 +159,8 @@ I recommend the following chapters. However, you can change the nomenclature or 
         <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li>
         </ul>
      
-
+    * What did each prototype explore?
+    * Discuss whether the prototype worked or not.
 
 * **Findings and Discussion**
 
@@ -172,7 +173,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Place evidence of (non-confidential) empirical research in appendices (questionnaires, interview transcripts/notes, experiment results, etc.)
 
 
-## Assignment: Intro (Background/Context/Rationale)
+## Assignment: Intro
 BEFORE you write your intro, read:
 * [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
 * Chapter 16:
@@ -181,7 +182,6 @@ Introductions and Conclusions of [The Craft of Research, 3rd Edition](http://www
 General Notes adopted from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
 
 * Context + Problem + Response
-
 
 
 ## Assignment: Conclusion
