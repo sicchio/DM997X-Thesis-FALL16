@@ -49,7 +49,7 @@ Or
 
 Create a combination visual outline / mind map
 
-### Assignment: Written Outline
+## Assignment: Written Outline
 Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
 
 * Section Title
