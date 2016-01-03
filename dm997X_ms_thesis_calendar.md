@@ -256,7 +256,20 @@
 </tr>
 <tr>
 <td>Wed, Apr 27</td>
-<td><b>Thanksgiving Holiday</b> No Class</td>
+<td>
+<strong>Homework</strong>
+<uL><li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong>, including the preliminaries (most notably the Table of Contents) in one pdf. Consult the templates pinned on slack. Also make sure you include your name in the filename of any file you submit to someone else. Once I download a file to my computer, I don't know whose paper it is until I open it if it does not have your name in the filename.</li>
+    
+    <ul>
+    <li>Get your paper reviewed at the Writing Center.</li>
+    <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
+    <li>Direct Message me on slack your compiled thesis paper as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
+    </ul>
+  </ul>  
+    <strong>Class</strong><ul>
+    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold</a></strong> for ALL students.</li>
+    
+    </ul> </td>
 </tr>
 <tr>
     <td>Wed, May 04</td>
@@ -275,13 +288,7 @@
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
     </ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong>, including the preliminaries (most notably the Table of Contents) in one pdf. Consult the templates pinned on slack. Also make sure you include your name in the filename of any file you submit to someone else. Once I download a file to my computer, I don't know whose paper it is until I open it if it does not have your name in the filename.</li>
     
-    <ul>
-    <li>Get your paper reviewed at the Writing Center.</li>
-    <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
-    <li>Direct Message me on slack your compiled thesis paper as a PDF</strong> (Please note who has proofread and edited your paper.)</li>
-    </ul>
     
     
     </ul>
