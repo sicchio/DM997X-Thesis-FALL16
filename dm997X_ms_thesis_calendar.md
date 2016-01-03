@@ -46,7 +46,8 @@
        <li>Discuss Accountability Partners</li>
        <li>Class Discussion: Your Productivity System</li>
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
-        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
+        <li>Discuss <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+        <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your <a href="project_milestones.md" target="_blank">project milestones</a></li>
         <li>Discuss "Capture" and "Waiting For" from <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done" target="_blank">Getting Things Done: The Art of Stress-Free Productivity</a> by David Allen
         <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a></li>
         <li>Overview of <a href="http://pomodorotechnique.com" target="_blank">The Pomodoro Technique</a></li>
