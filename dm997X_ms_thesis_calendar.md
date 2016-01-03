@@ -28,7 +28,7 @@
     <td><strong>Homework</strong>
     <ul>
     
-    <li>(if you have not done so already) direct message me on Slack your accountability partner (which must be a classmate). You can look at the accountability page to see who has already teamed up.</li>
+    <li>Finish "Before Class Begins" above.</li>
     </ul>
     <strong>Class</strong>
         <ul>
