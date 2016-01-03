@@ -121,7 +121,6 @@
     <strong>Class</strong>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
-
     </ul> 
     </td> 
 </tr>
