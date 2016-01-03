@@ -132,7 +132,7 @@ This class will consist of
 * 13% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
 * 10% Mock Thesis Defenses
 * 10% Project Demo Critiques
-* 03% Self Assessment & Rubrics
+* 03% Midterm Self Assessment & Rubric
 
 *Extra Credit: Career Counseling Appt. through NYU's Wasserman Center*
 
