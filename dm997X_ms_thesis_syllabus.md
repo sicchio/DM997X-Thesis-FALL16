@@ -161,11 +161,7 @@ project?
 forms of communication including writing, drawing, mapping, modeling, pre-visualizing
 etc?
 
-*Presentation*
 
-* Is the student able to conceptualize, design and plan a suitable means of
-presenting their project through exhibition, demonstration, performance and/or
-lecture? 
 
 *Critical Thinking*
 
@@ -207,7 +203,11 @@ technology into the conceptualization of their projects?
 * Is the student able to scale their project to the appropriate time frame and
 technical/design resources at their disposal?
 
+*Presentation*
 
+* Is the student able to conceptualize, design and plan a suitable means of
+presenting their project through exhibition, demonstration, performance and/or
+lecture? 
 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
