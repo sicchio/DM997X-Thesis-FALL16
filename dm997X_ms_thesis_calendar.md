@@ -127,7 +127,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
     </ul> 
     </td> 
 </tr>
