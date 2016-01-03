@@ -125,7 +125,7 @@ I recommend the following chapters. However, you can change the nomenclature or 
 
  * **Research**
    
-    * Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, , tech research, material research, visual research, collection, interviews, observation, etc.
+    * Including, but not limited to, brainstorming (thought maps, word lists, etc.), tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research is most appropriate for your project. 
 
 * **Research Methods:** 
