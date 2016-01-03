@@ -43,8 +43,8 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **Where will we see it?** 
 
-* **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)? (methodology)
-** 
+* **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)?** (methodology)
+ 
 
 * **How and why has the topic of your thesis changed through time, as something with its own history? How and why is your topic an episode in a larger
 history?** (history)
@@ -62,11 +62,10 @@ Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.e
 
  
 * **What is your "elevator pitch" / Thesis Statement?**<br>
-Keep in mind, "What is the project about? What is its theme?"
+
 
     * It is one sentence, not a paragraph.
 
-    
     * Here's a guide for a starting point: 
     * ***(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*.** 
 
