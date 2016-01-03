@@ -135,6 +135,7 @@ I recommend the following chapters. However, you can change the nomenclature or 
       * Explain where you will get your data, and state your sample size– Summarize the above, using diagrams where possible
       * Explain how you will analyse your collected data (framework for data analysis)* Outline limitations/potential problems (but explain why your work is valid and reliable)
 
+
 * **Design** (including, but not limited to)
     * design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
         <ul>
@@ -151,15 +152,13 @@ I recommend the following chapters. However, you can change the nomenclature or 
 
 
 * **Development**
-    * Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
+    * Discuss Alpha, Beta, Gold Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
         <ul>
         <li>A prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
         <li>As a result, a prototype can take on many forms. Essentially, it is your project or aspects of your project in an unfinished form.</li>
         <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li>
         </ul>
-     * Alpha
-     * Beta
-     * Gold
+     
 
 
 * **Findings and Discussion**
