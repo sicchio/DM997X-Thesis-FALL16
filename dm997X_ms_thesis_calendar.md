@@ -30,12 +30,10 @@
         <li>Excerpt from 100 ways to motivate yourself by Steven Chandler</li>
         <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
         
-       <Li>Class Exercise: Resistance / Enemies</li>
-       <li>Class Exercise: Your Allies</li>
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
        <li>Discuss Process (Research, Design, and Build)
        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
-       <li>Discuss Succeeding with your master's dissertation a step-by-step handbook by John Biggam</li>
+       <li>Discuss <a href="http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research" target="_blank">The Craft of Research, 3rd Edition</a> by Wayne Booth, Gregory Colomb, and Joseph Williams</li>
        <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack
        <li>Discuss Groups A and B</li>
        <li>Discuss Accountability Partners</li>
@@ -54,6 +52,7 @@
     <td>Wed, Feb 03</td>
     <td><strong>Homework</strong>
     <ul>
+    <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li>(if you have not done so already) direct message me on Slack your accountability partner (which must be a classmate). You can look at the accountability page to see who has already teamed up.</li>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft) and  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
