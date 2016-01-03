@@ -153,6 +153,7 @@
     <td>Wed, Mar 09</td>
     <td><strong>Homework</strong>
     <ul>
+    <li><strong>Confirm External Examiner</strong>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
    
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
