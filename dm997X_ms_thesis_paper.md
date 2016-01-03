@@ -121,7 +121,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
      * Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
     * You should decide what kinds of research / reference / inspiration is most appropriate for your project.
 
-## Assignment: Body (Process)
+## Assignment: Body (Process aka Methodology)
 I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
 
  * **Research**
