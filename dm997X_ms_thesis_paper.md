@@ -99,7 +99,7 @@ I recommend the following chapters. However, you can change the nomenclature or 
 
  * **Research**
     * *Literature Review:* Who-is-writing-what in relation to your research area(s).
-    * *Related Work or Competitive Analysis:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
+    * *Related Work or Precedents:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
     * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
     * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
