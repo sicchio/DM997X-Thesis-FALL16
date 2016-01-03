@@ -282,7 +282,7 @@
     <li>MAGNET 8XX (depending on the room you get assigned.)</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
     </ul>
-    <li>Proofread <a href="dm997X_ms_thesis_paper.md">Thesis Paper</a></li>
+    <li><strong>Proofread <a href="dm997X_ms_thesis_paper.md">Thesis Paper</a></strong></li>
     <ul>
     <li>Get your paper reviewed at the Writing Center.</li>
     <li>Have at least 2 different people read and edit your paper (not including your project advisor.)</li>
