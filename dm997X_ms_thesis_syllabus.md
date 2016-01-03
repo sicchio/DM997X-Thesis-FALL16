@@ -276,7 +276,6 @@ The MS Thesis in Digital Media is comprised of four primary components:
 * [Thesis Process Website](dm997X_ms_thesis_website.md)
 * [Thesis Paper](dm997X_ms_thesis_paper.md)
 * [Thesis Project](dm997X_ms_thesis_project.md)
-
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
 
 
