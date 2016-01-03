@@ -78,20 +78,7 @@ This class will consist of
 * [Project Demos and Critique](project_demo.md)
 * [Mock Thesis Defenses and Critique](dm997X_ms_thesis_mock_defense.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
-* Self Assessment
-
-**Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. We will alternate weeks between group A and B. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
-
-Individual meetings are not optional. They are important and useful. Sometimes
-they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
-
-**In-class peer critiques**<br>While I am meeting with your fellow classmates, it is mandatory that you receive peer critique on whatever you are currently working on. You should not be working on anything during peer critique. You should be giving feedback to a fellow classmate. When you are finished with one classmate, find another. Rinse and repeat.
-
-**[Project Demos]() & [Mock Thesis Defenses](dm997X_ms_thesis_mock_defense.md)**<br>Project demos or mock thesis defenses will be held on designated Wednessdays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
-
-**Self Assessment**
-Students will also conduct self assessments as well as be evaluated by the professor throughout the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
-
+* Self Assessments
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
