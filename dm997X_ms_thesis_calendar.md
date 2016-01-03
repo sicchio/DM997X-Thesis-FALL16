@@ -145,7 +145,7 @@
     <strong>Class</strong>
     <ul>
     
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
     </ul>     
     </td> 
 </tr>
@@ -162,7 +162,7 @@
     <strong>Class</strong>
     <ul>
      <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
     </ul> 
     </td> 
 </tr>
