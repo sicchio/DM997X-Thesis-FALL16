@@ -115,6 +115,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Emphasize the value of/need for your research
 * **Research**
     * *Literature Review:* Who-is-writing-books, articles, etc. in relation to your research area(s).
+        * Other media? narrative or documentary film? 
     * *Related Work or Precedents:* Who-is-doing-what in relation to your research area(s). 
      * Compare and contast similar projects by other artists, designers, or creative technologists to yours. 
      * Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
