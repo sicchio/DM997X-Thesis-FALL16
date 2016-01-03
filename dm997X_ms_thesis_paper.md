@@ -95,7 +95,7 @@ BEFORE you write your body, read:
  * 14 Revising Your Organization and Argument
  * 15 Communicating Evidence Visually
 
-I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.*
+I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
 
  * **Research**
     * *Literature Review:* Who-is-writing-what in relation to your research area(s).
