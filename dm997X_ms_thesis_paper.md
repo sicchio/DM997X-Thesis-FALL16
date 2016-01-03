@@ -126,7 +126,7 @@ I recommend the following chapters. However, you can change the nomenclature or 
  * **Research**
    
     * Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, , tech research, material research, visual research, collection, interviews, observation, etc.
-        * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
+        * You should decide what kinds of research is most appropriate for your project. 
 
 * **Research Methods:** 
     * Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
