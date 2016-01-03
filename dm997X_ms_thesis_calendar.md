@@ -39,11 +39,13 @@
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
        <li>Discuss Process (Research, Design, and Build)
        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
+       <ul><li>Discuss Groups A and B</li>
+       <li>Discuss Accountability Partners</li>
        <li>Always report any broken links or typos in the thesis gitbook with a direct message on slack</li>
+       </ul>
        <li>Discuss <a href="http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research" target="_blank">The Craft of Research, 3rd Edition</a> by Wayne Booth, Gregory Colomb, and Joseph Williams</li>
        
-       <li>Discuss Groups A and B</li>
-       <li>Discuss Accountability Partners</li>
+       
        <li>Class Discussion: Your Productivity System</li>
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
         <li>Discuss <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
