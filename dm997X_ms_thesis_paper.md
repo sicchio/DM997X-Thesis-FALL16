@@ -198,9 +198,9 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 ## Assignment: Abstract
 BEFORE you write your abstract, read:
 * [Indiana University's Writing Abstracts](http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
-* <strong>Quick Tip: Abstract</strong> in [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
+* <strong>Quick Tip: Abstract</strong> from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
 
-General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
+General Notes adopted from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
 
 * Write it last! 
 * State the research problem
