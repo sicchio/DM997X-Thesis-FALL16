@@ -269,9 +269,9 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 
 ### REQUIRED ARTICLES
-They will be pinned on slack.
+
 * [Personal Productivity](http://paulklipp.com/images/PersonalProductivity.pdf) by Paul Klipp
-* Specific Chapters from The Mac is not a Typewriter by Robin Williams
+* Specific Chapters from **The Mac is not a Typewriter** by Robin Williams. *They will be pinned on slack.*
 
 ### REQUIRED MEDIA
 
