@@ -31,7 +31,7 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 
 * The Student will be the secondary recommender.
 
-* The Thesis Faculty will be the third recommender.
+* The Thesis Faculty will be the last resort for getting an external.
 
 * The Thesis Project Advisor, Thesis Faculty, Thesis Student, or IDM's Coordinator of Academic Programs will contact the External Reviewer to determine their availability for the Thesis Defense, depending on the Thesis Project Advisor communication preferences. 
 
