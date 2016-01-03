@@ -185,7 +185,7 @@
     <strong>Class</strong>
     <ul> 
    <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
-   <li>Discuss External Examiners</li>
+   <li>Discuss and Brainstorm External Examiners</li>
    </ul>
     </td> 
 </tr>
