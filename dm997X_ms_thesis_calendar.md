@@ -265,6 +265,17 @@
     <td>
     <strong>Homework</strong>
     <ul>
+    <li><strong>by or before today at 4pm</strong>, send me a flyer to promote your defense on the MAGNET screens and BxMC facebook page.</li>
+    <ul>
+    <Li>Dimensions should be 1920x1200</li>
+    <li>Your Name</li>
+    <li>Thesis Project Name</li>
+    <li>IDM MS Thesis Defense</li>
+    <Li>URL to Thesis Project website</li>
+    <li>Date and Time</li>
+    <li>MAGNET 8XX (depending on the room you get assigned.)</li>
+    <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
+    </ul>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li><strong> Final <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong>, including the preliminaries (most notably the Table of Contents) in one pdf. Consult the templates pinned on slack. Also make sure you include your name in the filename of any file you submit to someone else. Once I download a file to my computer, I don't know whose paper it is until I open it if it does not have your name in the filename.</li>
     
@@ -292,17 +303,7 @@
     <td>
     <strong>Homework</strong>
     <ul>
-    <li><strong>by Monday at 10am</strong>, send me a flyer to promote your defense on the MAGNET screens and BxMC facebook page.</li>
-    <ul>
-    <Li>Dimensions should be 1920x1200</li>
-    <li>Your Name</li>
-    <li>Thesis Project Name</li>
-    <li>IDM MS Thesis Defense</li>
-    <Li>URL to Thesis Project website</li>
-    <li>Date and Time</li>
-    <li>MAGNET 8XX (depending on the room you get assigned.)</li>
-    <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
-    </ul>
+    
     <li>Rehearse your Mock Thesis Defense with your accountability partner as many times as needed. I'd also suggest filming yourself and reviewing the footage.</li>
     
     </ul>
