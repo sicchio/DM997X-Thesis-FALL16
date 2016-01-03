@@ -55,8 +55,11 @@ Or
 Create a combination visual outline / mind map
 
 ## Assignment: Written Outline
-Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
+* Read [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
+* Read Quick tip: Outlining and
+Storyboarding
 
+Recommended structure:
 * Section Title
 * Section Title
 * Section Title
@@ -67,6 +70,7 @@ Review [Indiana University's Using Outlines](http://www.indiana.edu/~wts/pamphle
 
 Create a more detailed written outline by fleshing out they key points of your topics and/or subtopics of your initial written outline.
 
+Recommended structure:
 * Section Title
   * Subsection (Optional)
     * Subsection Key Points
@@ -176,9 +180,8 @@ BEFORE you write your conclusion, read:
 Introductions and Conclusions of [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
 
 General Notes adopted from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research)
-* Start with Your Main Point
-* Add a New Significance or Application
-* Call for More Research
+Start with Your Main Point
+Add a New Significance or Application
 
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
