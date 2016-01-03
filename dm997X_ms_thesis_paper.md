@@ -37,7 +37,7 @@ settled fact (though not always). Questions that ask *how** and **why** are more
 
 Here's a guide for a starting point: 
 
-***(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*.** 
+* **(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*.** 
 
 *Note: Obviously you would not leave in the parentheses; it's a just a marker to denote what you should add.*
 
@@ -143,7 +143,8 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 ## Assignment: Intro (Background/Context/Rationale)
 BEFORE you write your intro, read:
 * [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
-* Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* Chapter sixteen:
+Introductions and Conclusions
 
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
