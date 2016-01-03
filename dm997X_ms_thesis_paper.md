@@ -89,9 +89,12 @@ I recommend you use some sort of version control for keeping track of drafts of 
 
 BEFORE you write your body, read:
 * [Indiana University's Paragraphs and Topic Sentences](http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
-* Chapter 5, The Literature Review, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam(available for download via Bobst's ebrary)
-* Chapter 7, Research Methods, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam(available for download via Bobst's ebrary)
+* 
 
+12 Planning
+13 Drafting Your Report
+14 Revising Your Organization and Argument
+15 Communicating Evidence Visually
 *I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.*
 
  * **Research**
@@ -212,9 +215,9 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 BEFORE you proofread, read: 
 * [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar](http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
 
+*
 
-
-
+Chapter 17 Revising Style: Telling Your Story Clearly
 
 
 
