@@ -78,7 +78,7 @@
     <td>
 <strong>Homework</strong>
 <ul>
-        <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
+        <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
         <li>Listen to the following Unmistakeable Creative Podcast, <a href="https://unmistakablecreative.com/podcast/asking-a-more-beautiful-question-with-warren-berger" target="_blank">Asking A More Beautiful Question With Warren Berger</a> (Start listening to the podcast around 22 minutes INTO the podcast...)
 </li>
 <li>ONLY AFTER listening to the podcast, go through the exercise of asking: <strong>why? what if? and how?</strong> as it relates to your thesis paper and project. Post the results to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
@@ -90,8 +90,7 @@
 
 <strong>Class</strong>    
         <ul>
-        <li><strong>Attend Jane McGonigal's talk on the floor, beginning at 7pm.</strong></li>
-        <li>We will meet for class when her talk ends.</li>
+     
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
         </ul>
     </td> 
