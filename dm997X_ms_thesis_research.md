@@ -3,7 +3,10 @@
 
 ---
 # THESIS RESEARCH
+
 There are many ways to conduct research beyond doing literature reviews (i.e. reading). I have bolded the ones you may find the most useful. I suggest doing research on what these research methods are if you don't know.
+
+You should be [conducting research](dm997X_ms_thesis_research.md) and user testing throughout the ENTIRE semester. Do not wait until the last minute to begin user testing; User testing gives you invaluable feedback about your project. Include the results of your user testing in your thesis paper.
 
 01. **A/B Testing**
 
