@@ -5,11 +5,7 @@
 
 # THESIS PROJECT
 
-You should be [conducting research](dm997X_ms_thesis_research.md) and user testing throughout the ENTIRE semester. Do not wait until the last minute to begin user testing; User testing gives you invaluable feedback about your project. Include the results of your user testing in your thesis paper.
-
-
-
-    Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
+Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
 
 * <strong>Alpha</strong> is the testing phase of form and functionality for your project.
 
