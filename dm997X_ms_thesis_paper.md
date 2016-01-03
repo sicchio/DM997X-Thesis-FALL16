@@ -44,8 +44,7 @@ Here's a guide for a starting point:
 
 
 ## Assignment: Visual Outline or Mind Map
-Read 
-* **Chapter 15 Communicating Evidence Visually** from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research).
+Read **Chapter 15 Communicating Evidence Visually** from [The Craft of Research, 3rd Edition](http://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669/ref=sr_1_1?ie=UTF8&qid=1451843847&sr=8-1&keywords=the+craft+of+research).
 
 Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses. 
 
