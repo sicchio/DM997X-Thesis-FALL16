@@ -121,8 +121,7 @@
     <strong>Class</strong>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
-    <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
-<li>Individual Meetings with <a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Project Milestones / Self Assessment / Process Website Updates /  <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+
     </ul> 
     </td> 
 </tr>
