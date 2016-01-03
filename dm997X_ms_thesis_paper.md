@@ -198,7 +198,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 ## Assignment: Abstract
 BEFORE you write your abstract, read:
 * [Indiana University's Writing Abstracts](http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
-* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+
 
 General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook](https://getit.library.nyu.edu/go/6809674) by John Biggam 
 
