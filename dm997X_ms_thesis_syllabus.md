@@ -71,7 +71,7 @@ By the end of the course, students will be able to develop, complete, and docume
 Students are expected to be on time for all meetings, critiques, and presentations. Due to the number of students in this class, you will be assigned to group A or B for individual meetings and/or presentation schedules.
 
 This class will consist of
-* Lecture
+* Lectures
 * Group Discussion
 * Individual Meetings
 * In-class Peer Critiques
