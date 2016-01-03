@@ -113,7 +113,7 @@ General Notes adopted from [Succeeding with your master's dissertation a step-by
 * Show initiative (in sourcing information)
 * Produce clear, achievable research objectives
 * Emphasize the value of/need for your research
-* **Research**
+* **Context**
     * *Literature Review:* Who-is-writing-books, articles, etc. in relation to your research area(s).
         * Other media? narrative or documentary film? 
     * *Related Work or Precedents:* Who-is-doing-what in relation to your research area(s). 
