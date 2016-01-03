@@ -128,11 +128,11 @@ This class will consist of
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes [Thesis Paper](dm997X_ms_thesis_paper.md) and [Thesis Project](dm997X_ms_thesis_project.md))
-* 14% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
+* 13% [End of Semester Deliverables](dm997xmsthesis_end_of_semester_deliverables.md)
 * 13% Weekly Progress: Project Milestones (aka what have you done this week?) on [Thesis Process Website](dm997X_ms_thesis_website.md) and Calendar
 * 10% Mock Thesis Defenses
 * 10% Project Demo Critiques
-* 03% Midterm Self Assessment & Rubric
+* 04% Midterm Self Assessment & Rubric
 
 *Extra Credit: Career Counseling Appt. through NYU's Wasserman Center*
 
