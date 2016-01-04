@@ -55,7 +55,7 @@
         <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a></li>
         <li>Overview of <a href="http://pomodorotechnique.com" target="_blank">The Pomodoro Technique</a></li>
         <li>Overview of <a href="http://rescuetime.com" target="_blank">RescueTime</a> and <a href="http://zapier.com" target="_blank">Zapier</a>, an alternative to <a href="https://ifttt.com/" target="_blank">ifttt</a></li>
-        <li>Guest Talk: ?, IDM MS '15</li>
+        
         </ul>
     </td>  
 </tr>
@@ -71,6 +71,7 @@
     </ul>
 <strong>Class</strong>    
     <ul>
+    <li>Guest Talk: Ernie Gerardo, IDM MS '15</li>
     <li>Class Discussion <a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: <a href="project_milestones.md" target="_blank">Project Milestones</a> /  <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
     </ul>
     </td> 
