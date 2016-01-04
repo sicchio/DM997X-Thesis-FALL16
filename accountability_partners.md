@@ -3,7 +3,7 @@
 
 ---
 
-## ACCOUNTABILITY PARTNERS
+#Accountability Partners
 
 *  and 
 *  and 
@@ -15,7 +15,7 @@
 *  and 
 
 
-###Responsibility of Accountability Partners
+##Responsibility of Accountability Partners
 * Check in with each other 
  * in person 
  * on a weekly basis 
