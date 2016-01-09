@@ -17,8 +17,8 @@ You should have a **dedicated**, thesis website to document your **weekly** prog
 
 
 
-##What your thesis process website should contain?
-* **Weekly Thesis Progress**
+##What your weekly thesis process website should contain?
+* **Progress**
   * at least, 1 post per week DUE at noon on Wednesdays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * Project Advisor meeting notes (2-4x)
@@ -30,9 +30,10 @@ You should have a **dedicated**, thesis website to document your **weekly** prog
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
   * If you do not do anything for the week, write **I did not work on my thesis this week.**
 
-* **Plans (for the following week(s))**
 
-* **Problems**
+* **Plans** (for the following week(s))
+
+* **Problems** (if any)
 
 * **An About Page**
   * The “elevator pitch” / Thesis Statement
