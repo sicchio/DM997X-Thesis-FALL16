@@ -58,7 +58,7 @@ If you are NOT feeling “Hell Yeah!” about your thesis project, remember your
 
 Your thesis project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the Integrated Digital Media faculty. It is about you, your ideas, your concerns, your questions and your passion.
 
-MS Thesis in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow class mates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
+MS Thesis in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
 
 ### PROGRAM GOALS
 
