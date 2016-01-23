@@ -21,6 +21,7 @@ Group A and Group B will alternate every other week. Consult the <a href="dm997X
     9:20pm <strong></strong><br>
     9:40pm <strong></strong><br>
     10:00pm <strong></strong><br>
+    10:20pm <strong></strong><br>
     </td>
     <td>7:30pm <strong></strong><br>
     8:00pm <strong></strong><br>
@@ -30,6 +31,7 @@ Group A and Group B will alternate every other week. Consult the <a href="dm997X
     9:20pm <strong></strong><br>
     9:40pm <strong></strong><br>
     10:00pm <strong></strong><br>
+    10:20pm <strong></strong><br>
     </td>
 </tr>
 </table>
