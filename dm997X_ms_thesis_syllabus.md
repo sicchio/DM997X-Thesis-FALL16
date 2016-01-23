@@ -23,6 +23,7 @@
 
 ## Welcome to MS Thesis In Digital Media!
 
+**What is MS Thesis In Digital Media?** 
 This is the second semester of a two-semester sequence culminating in a polished thesis defense, a thesis paper, a thesis project, and thesis website, accomplished through a combination of questioning, researching, building/making, writing, iterating, and presenting.
 
 Thesis Projects must go beyond concept and idea; they must be fully realized and functional. The finished project must evidence advancement and/or experimentation, critical and independent thinking, appropriate form, and thorough documentation. Emphasis is placed on effective project planning, professional caliber fabrication and production, real-world user testing, and writing and research of publishable quality. 
