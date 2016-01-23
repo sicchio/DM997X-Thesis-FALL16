@@ -39,6 +39,27 @@ Thesis research is conducted to find
 * our CONTEXT in the specific realm of knowledge we are engaging in and 
 * what remains to be an *open question* where we can contribute our voice in the form of a project. 
 
+## Your Commitment to MS Thesis In Digital Media
+Excerpt from the book *Anything You Want* by Derek Sivers
+
+     No “yes.” 
+     Either “HELL YEAH!” or “no.”
+     If you’re not saying “HELL YEAH!” about something, say “no.” 
+     When deciding whether to do something, if you feel anything less than 
+     “Wow! That would be amazing! Absolutely! Hell yeah!”
+     —then say “no.” 
+
+How are you currently feeling about your thesis project? 
+* Yes. 
+* Hell Yeah! or 
+* No:( 
+
+If you are NOT feeling “Hell Yeah!” about your thesis project, remember your project idea is just that YOURS. I highly suggest you read What is Senior Project in Digital Media?, again, AND the required and recommended readings NOW!
+
+Your thesis project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the Integrated Digital Media faculty. It is about you, your ideas, your concerns, your questions and your passion.
+
+MS Thesis in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow class mates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
+
 ### PROGRAM GOALS
 
 The following IDM program goals are reinforced within this course. At a graduate level, students will:
