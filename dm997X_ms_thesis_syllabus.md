@@ -54,7 +54,7 @@ How are you currently feeling about your thesis project?
 * Hell Yeah! or 
 * No:( 
 
-If you are NOT feeling “Hell Yeah!” about your thesis project, remember your project idea is just that YOURS. I highly suggest you read What is Senior Project in Digital Media?, again, AND the required and recommended readings NOW!
+If you are NOT feeling “Hell Yeah!” about your thesis project, remember your project idea is just that YOURS. I highly suggest you read What is MS Thesis Project in Digital Media?, again, AND some of the recommended readings NOW!
 
 Your thesis project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the Integrated Digital Media faculty. It is about you, your ideas, your concerns, your questions and your passion.
 
