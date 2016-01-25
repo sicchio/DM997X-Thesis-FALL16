@@ -115,7 +115,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha</a> <a href="project_demo.md">Demo Due</a> (Half of Class - 20 min each)</li>
     </ul> 
     </td> 
 </tr>
@@ -130,7 +130,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Alpha</a> <a href="project_demo.md">Demo Due</a> (Other Half of Class - 20 min each)</li>
     </ul> 
     </td> 
 </tr>
@@ -148,7 +148,7 @@
     <strong>Class</strong>
     <ul>
     
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (Half of Class - 20 min each)</strong></li>
     </ul>     
     </td> 
 </tr>
@@ -166,7 +166,7 @@
     <strong>Class</strong>
     <ul>
      
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (Other Half of Class - 20 min each)</strong></li>
     </ul> 
     </td> 
 </tr>
@@ -208,7 +208,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> (Half of Class - 20 min each)</li>
     
     </ul> 
     </td> 
@@ -229,7 +229,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft</a> (Other Half of Class - 20 min each)</strong></li>
     </ul> 
     
     </td> 
