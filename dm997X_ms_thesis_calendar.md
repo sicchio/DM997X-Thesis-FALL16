@@ -34,8 +34,9 @@
     <strong>Class</strong>
         <ul>
         <li>Excerpt from 100 ways to motivate yourself by Steven Chandler</li>
-        <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
          <li>Class Exercise (Post-its): What are your expectations for this class? One per post-it.</li>
+         <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
+        
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
        <li>Class Discussion: Your Productivity System</li>
        <li>Discuss Process (Research, Design, and Build)
