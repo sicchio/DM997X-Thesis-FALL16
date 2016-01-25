@@ -90,7 +90,7 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ### COURSE STRUCTURE
 
-Students are expected to be on time for all meetings, critiques, and presentations. Due to the number of students in this class, you will be assigned to group A or B for individual meetings and/or presentation schedules.
+Students are expected to be **on time** for all meetings, critiques, and presentations. Always **be prepared** to present on the first due date of any demo or presentation.
 
 This class will consist of
 * Lectures
