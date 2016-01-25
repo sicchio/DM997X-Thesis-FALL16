@@ -118,8 +118,9 @@ This class will consist of
 * Meet weekly with your thesis accountablity partner
 * Consult slack  at least once a week for up to date info.
 * Maintain a weekly, dedicated, thesis process website.
+* **Back up your work constantly** 
 * Complete all deliverables by their due dates.
-* Acquire and read copies of the required book.
+* Acquire and read the required book.
 * Action – do your absolute best.
 * Strive for continuous improvement.
 * Pay attention to detail & craft.
