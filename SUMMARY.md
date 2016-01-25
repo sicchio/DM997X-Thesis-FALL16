@@ -5,7 +5,6 @@
 * [Syllabus](dm997X_ms_thesis_syllabus.md)
 * [Calendar](dm997X_ms_thesis_calendar.md)
 * [Project Milestones](project_milestones.md)
-* [Groups](dm997X_ms_thesis_groups.md)
 * [Accountability Partners](accountability_partners.md)
 * [Thesis Defense](dm997X_ms_thesis_defense.md)
 * [Thesis Roles](thesis_roles.md)
