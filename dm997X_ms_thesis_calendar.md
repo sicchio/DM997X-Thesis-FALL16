@@ -187,14 +187,15 @@
     </ul>
     <strong>Class</strong>
     <ul> 
-   <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</li>
-   <li>Discuss and Brainstorm External Examiners</li>
+   <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong></li>
+   <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (any remaining or do-overs)</strong></li>
+   <li>Discuss and Review Thesis Paper Progress</li>
    </ul>
     </td> 
 </tr>
 <tr>
     <td>Thu, Mar 24 or Fri, Mar 25</td>
-    <td><strong>Midterm review individual meetings to be scheduled.</strong></td>
+    <td><strong>Midterm review individual meetings to be scheduled.</strong><br> Bring your printed self-assessments with you to your scheduled one on one appointments. The self assessment will be posted on slack, and handed out in class.</td>
 </tr>
 <tr>
     <td>Wed, Mar 30</td>
