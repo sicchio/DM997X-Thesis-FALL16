@@ -38,8 +38,8 @@
          <li>Class Exercise: Why? (Do you adore your idea? Are you metaphorically willing to bleed (i.e. blood, sweat, and tears) for it?)</li>
         
        <li>Class Exercise: Your mantra, power song, or power move to get you to action.</li>
-       <li>Class Discussion: Your Productivity System</li>
-       <li>Discuss Process (Research, Design, and Build)
+       
+       
        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
        <ul><li>Discuss what <i>Half of Class/Other Half of Class</i> actually means</li>
        <li>Discuss <a href="accountability_partners.md">Accountability Partners</a></li>
@@ -50,9 +50,13 @@
        
        
     <li>Discuss <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
-        <li>Discuss <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-        <li>Discuss <a href="http://paulklipp.com/images/PersonalProductivity.pdf">Personal Productivity</a></strong> by Paul Klipp</li>
+    <li>Discuss <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
         <ul>
+        <li>Discuss Process (Research, Design, and Build)</li>
+        </ul>
+    <li>Discuss <a href="http://paulklipp.com/images/PersonalProductivity.pdf">Personal Productivity</a></strong> by Paul Klipp</li>
+    <ul><li>Class Discussion: Your Productivity System</li>
+        
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your <a href="project_milestones.md" target="_blank">project milestones</a></li>
         <li>Discuss "Capture" and "Waiting For" from <a href="http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done" target="_blank">Getting Things Done: The Art of Stress-Free Productivity</a> by David Allen
         <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a></li>
@@ -70,6 +74,7 @@
     <li><strong>Create your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li>Post your <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft) and  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> (2nd Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
+    <li>(OPTIONAL) <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
      <li>Share the items in the above bullet with your accountability partner.</li>
     </ul>
 <strong>Class</strong>    
@@ -95,7 +100,8 @@
 <li>ONLY AFTER listening to the podcast, go through the exercise of asking: <strong>why? what if? and how?</strong> as it relates to your thesis paper and project. Post the results to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
 <li>Revise your thesis statement based on the previous exercise ONLY IF your project shifts after doing the exercise above. Post the revision to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
 <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li>Share the items in the above bullets with your accountability partner.</li>
+     <li>(OPTIONAL) <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+     <li>Share the items in the above bullets with your accountability partner.</li>
 </ul>
         
 
