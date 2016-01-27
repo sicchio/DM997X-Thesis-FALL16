@@ -22,7 +22,7 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **List your name:**
 
-* **What are your career goals?** (What are the next steps for your IDM post-graduation? What industry/industries are you targeting? Are you targeting any particular companies or organizations?)
+* **What are your career goals?** (What are the next steps for you post-graduation? What industry/industries are you targeting? Are you targeting any particular companies or organizations?)
 
 * **List your [accountability partner](https://deangela.gitbooks.io/ms-thesis-in-digital-media-spring-2016/content/accountability_partners.html)** (after confirming this with them.):
 
