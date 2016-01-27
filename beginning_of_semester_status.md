@@ -38,7 +38,7 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **Who will use it? Who will be changed by it? Who cares?** (audience)
 
-* **Where will we see it?** 
+* **Where will we see it?** (Where will it live?)
 
 * **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)?** (methodology)
  
