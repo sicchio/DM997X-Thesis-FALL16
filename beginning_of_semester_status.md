@@ -53,11 +53,11 @@ history?** (history)
 
 Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you answer the following question and write your thesis statement.
 
- * First, ask yourself **what question is your research trying  to answer?** (Please reference the above link.)
+ * **What question is your research trying to answer?** (Please reference the above link.)
     
 
    
-    * Secondly, turn that question into a statement. (Please reference the above link.)
+    * Turn that question into a statement. (Please reference the above link.)
     * Do not use **I** in your thesis statement.
 
  
