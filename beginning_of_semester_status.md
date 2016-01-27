@@ -88,14 +88,6 @@ Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.e
 
     * How has your project transformed or shifted over the winter break AND why?
 
-* Distinguish Scott McCloud’s six
-steps of the creative process in relation to your thesis project. 
- 1. Idea/Purpose-Content
- 2. Form-Manifestation (book, sculpture, film?)
- 3. Idiom-Context, style, genre
- 4. Structure-Composition, what to include, NOT include!
- 5. Craft- practical implementation, getting the job done.
- 6. Surface-finishing, superficial face of the work-usually this is the easiest part.
 
 * **Why have you chosen at this particular time to investigate your chosen thesis?**
 
