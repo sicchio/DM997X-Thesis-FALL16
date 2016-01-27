@@ -4,6 +4,8 @@
 ---
 # CALENDAR
 ###Dates are subject to change drastically before semester begins based on the final number of students enrolled.
+
+<strong>EXTRA CREDIT:</strong> <a target="_blank" href="http://www.fiveminutejournal.com">Five Minute Journal</a> Every Week of Class
 <table>
 <tr>
     <td width="15%">DUE DATE<br>
