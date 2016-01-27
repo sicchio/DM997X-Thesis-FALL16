@@ -64,6 +64,7 @@
         <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a></li>
         <li>Overview of <a href="http://pomodorotechnique.com" target="_blank">The Pomodoro Technique</a></li>
         <li>Overview of <a href="http://rescuetime.com" target="_blank">RescueTime</a> and <a href="http://zapier.com" target="_blank">Zapier</a>, an alternative to <a href="https://ifttt.com/" target="_blank">ifttt</a></li>
+        <li>Discuss <a target="_blank" href="http://www.fiveminutejournal.com">Five Minute Journal</a></li>
         </ul>
         </ul>
     </td>  
