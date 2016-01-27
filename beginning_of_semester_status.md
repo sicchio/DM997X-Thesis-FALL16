@@ -8,17 +8,7 @@
 
 Copy and paste these questions in a word processing application of your choice.
 Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
-
-* **What is the aim of your thesis research?** Discover by filling in the blanks. Refer to chapters 3 and 4 in the required book, *The Craft of Research*.
-
-    * Topic: I am trying to (learn about, work on, study)_________.
-    * Question: because I want to find out who/what/when/where/whether/why/how_________.
-    * Significance: in order to help my audience (do, understand how, etc.)_________. 
-
-
-    * what you are writing about—your topic: I am studying . . .
-    * what you don’t know about it—your question: because I want to find out . . .
-    * why you want your reader to know about it—your rationale: in order to help my reader understand better . . .
+ . . .
 
 * **List your name:**
 
@@ -31,13 +21,20 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
     * **Is it a final or working title?**
     
    
-* **What are *at least* 3 keywords or hashtags that define your thesis?**
+* **What are *at least* 3 keywords or hashtags that define your thesis?** (This represents the theme(s) of your project.)
 
-* **What are the themes of your thesis?** (You may repeat 1 or 2 words from previous message if it applies.)
+* **What is the aim of your thesis research?** Discover by filling in the blanks. Refer to chapters 3 and 4 in the required book, *The Craft of Research*.
 
-* **What is the core concept of your thesis?** 
+    * Topic: I am trying to (learn about, work on, study)_________.
+    * Question: because I want to find out who/what/when/where/whether/why/how_________.
+    * Significance: in order to help my audience (do, understand how, etc.)_________. 
 
-* **What is its form?** 
+
+    * what you are writing about—your topic: I am studying . . .
+    * what you don’t know about it—your question: because I want to find out . . .
+    * why you want your reader to know about it—your rationale: in order to help my reader understand better
+
+* **What is its form?** (Be specific. Digital is not specific enough. e.g. website, mobile app, installation, etc.)
 
 * **Who will use it? Who will be changed by it? Who cares?** (audience)
 
