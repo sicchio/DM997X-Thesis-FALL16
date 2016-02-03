@@ -82,7 +82,7 @@
     </ul>
 <strong>Class</strong>    
     <ul>
-    
+    <li>Anyone research or try on any new productivity systems.</li>
     <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a>
     <li>Guest: Liz McEnaney, MS Thesis Writing Consultant</li>
     <li><a href="dm997X_ms_thesis_paper.md">Discuss Thesis Paper</a></li>
