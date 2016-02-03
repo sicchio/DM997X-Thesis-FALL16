@@ -83,7 +83,7 @@
 <strong>Class</strong>    
     <ul>
     
-    <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a>
+    <li>Overview of <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a>
     <li>Guest: Liz McEnaney, MS Thesis Writing Consultant</li>
     <li><a href="dm997X_ms_thesis_paper.md">Discuss Thesis Paper</a></li>
     <li>Guest: Ernie Gerardo, IDM MS '15</li>
