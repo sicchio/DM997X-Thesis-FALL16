@@ -87,7 +87,12 @@
     <li>Guest: Liz McEnaney, MS Thesis Writing Consultant</li>
     <li><a href="dm997X_ms_thesis_paper.md">Discuss Thesis Paper</a></li>
     <li>Guest: Ernie Gerardo, IDM MS '15</li>
-    <li>Class Discussion: <a href="project_milestones.md" target="_blank">Project Milestones</a> /  <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+    <li>Class Discussion: 
+    <ul>
+    
+    <Li><a href="project_milestones.md" target="_blank">Project Milestones</a> /  <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
+    <li><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (1st Draft) and  <strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a> (2nd Draft)</li>
+    </ul>
     </ul>
     </td> 
 </tr>
