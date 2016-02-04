@@ -14,7 +14,7 @@
 * Ryan and Neill
 * Sandy and Nithi 
 *  and 
-*  and 
+
 
 
 ##Responsibility of Accountability Partners
