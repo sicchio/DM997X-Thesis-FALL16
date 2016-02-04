@@ -5,7 +5,8 @@
 
 #Accountability Partners
 
-* Ayanna and Carlos 
+* Ayanna and Carlos
+* Gu and Nirbhay
 * Helen and Hovsep 
 * Inna and Matias 
 * Monica and Stefan
