@@ -5,11 +5,11 @@
 
 #Accountability Partners
 
-*  Monica and Stefan 
-*  Ryan and Neill 
-*  Matias and Inna 
-*  and 
-*  and 
+* Ayanna and Carlos 
+* Helen and Hovsep 
+* Inna and Matias 
+* Monica and Stefan
+* Ryan and Neill
 *  and 
 *  and 
 *  and 
