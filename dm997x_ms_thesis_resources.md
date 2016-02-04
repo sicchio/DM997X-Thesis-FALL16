@@ -53,8 +53,13 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [NYU SoE's Thesis guidelines](http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
 
+* [NYU Library](http://library.nyu.edu)
+    * Graduate students have access to a wide range of amenities in the NYU libraries, from [spaces](http://library.nyu.edu/services/group_study.html) designed just for you, to [classes](http://nyu.libcal.com) that will help you become a better researcher, to on-demand consultation and help from our [35 subject-specialist librarians](http://library.nyu.edu/research/lib_arc.html.). Visit [NYU Library](http://library.nyu.edu) to learn more about our services and our world-class collection of research materials.  
+    * Can’t find the book you need in BobCat?  Book checked out?  Request it from [E-ZBorrow](https://login.library.nyu.edu/login), a catalog of more than 50 academic libraries. Books arrive in 3-5 business days to Bobst Library (other locations may take a few days longer) and may be borrowed for 12 weeks.
+    
+
 * [NYU's Tips for Thesis and Dissertation Writers](http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
-  * **Dissertation Abstracts (Sample Theses)**
+  * Dissertation Abstracts (Sample Theses)
 
 
 * [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
@@ -94,9 +99,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [Bird by Bird: Some Instructions on Writing and Life](http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
 
-* **[NYU Library](http://library.nyu.edu)**
-    * Graduate students have access to a wide range of amenities in the NYU libraries, from [spaces](http://library.nyu.edu/services/group_study.html) designed just for you, to [classes](http://nyu.libcal.com) that will help you become a better researcher, to on-demand consultation and help from our [35 subject-specialist librarians](http://library.nyu.edu/research/lib_arc.html.). Visit [NYU Library](http://library.nyu.edu) to learn more about our services and our world-class collection of research materials.  
-    * Can’t find the book you need in BobCat?  Book checked out?  Request it from [E-ZBorrow](https://login.library.nyu.edu/login), a catalog of more than 50 academic libraries. Books arrive in 3-5 business days to Bobst Library (other locations may take a few days longer) and may be borrowed for 12 weeks.
+
 
 ## RECOMMENDED ACADEMIC RESEARCH RESOURCES
 * [Pew Research](http://www.pewresearch.org) (for statistics)
