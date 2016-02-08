@@ -119,9 +119,13 @@
 
 <strong>Class</strong>    
         <ul>
-        <li>Reminder: Direct Message via Slack (Do not email).</li>
+        <li>Reminders 
+        <ul>
+        <li>Direct Message via Slack (Do not email).</li>
         <li>Reminder about using Liz McEnaney, em3052@nyu.edu, as a writing consultant</li>
-        
+        <li>Consulting Class Calendar and/or Accountability Partner if you miss a class</li>
+        <li>Attendance Policy</li>
+        </ul>
      <li>Class Discussion</li>
      <ul>
      <li><a href="thesis_roles.md">Thesis Roles</a></li>
