@@ -121,7 +121,7 @@
         <ul>
         <li>Reminder: Direct Message via Slack (Do not email).</li>
         <li>Reminder about using Liz McEnaney, em3052@nyu.edu, as a writing consultant</li>
-        <li>Discuss <a href="">Thesis Roles</a></li>
+        <li>Discuss <a href="thesis_roles.md">Thesis Roles</a></li>
         <li>Discuss <a href=""Thesis Defense</a></li>
      <li>Class Discussion</li>
      <ul>
