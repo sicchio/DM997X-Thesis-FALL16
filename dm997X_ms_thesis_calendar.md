@@ -120,7 +120,7 @@
 <strong>Class</strong>    
         <ul>
         <li>Reminder: Direct Message via Slack (Do not email).</li>
-        <li>Reminder about using Liz McEnaney as a writing consultant</li>
+        <li>Reminder about using Liz McEnaney, em3052@nyu.edu, as a writing consultant</li>
      <li>Class Discussion</li>
      <ul>
      <li><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised)</li>
