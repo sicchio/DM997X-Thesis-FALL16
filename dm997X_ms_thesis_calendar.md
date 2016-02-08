@@ -121,10 +121,11 @@
         <ul>
         <li>Reminder: Direct Message via Slack (Do not email).</li>
         <li>Reminder about using Liz McEnaney, em3052@nyu.edu, as a writing consultant</li>
-        <li>Discuss <a href="thesis_roles.md">Thesis Roles</a></li>
-        <li>Discuss <a href=""Thesis Defense</a></li>
+        
      <li>Class Discussion</li>
      <ul>
+     <li><a href="thesis_roles.md">Thesis Roles</a></li>
+        <li><a href="dm997X_ms_thesis_defense.md">Thesis Defense</a></li>
      <li><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> (1st Draft) and <strong><a href="dm997X_ms_thesis_paper.md">Visual Outline and / or Mind Map</a></strong> (revised)</li>
      <li>(Remainder of Class): <a href="project_milestones.md" target="_blank">Project Milestones</a> /  <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a> / <a href="http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play" target="_blank">Neil Fiore’s Unschedule</a> for at least one week</li>
         </ul>
