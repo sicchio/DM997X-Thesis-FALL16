@@ -124,6 +124,8 @@
         <li>Direct Message via Slack (Do not email).</li>
         <li>Reminder about using Liz McEnaney, em3052@nyu.edu, as a writing consultant</li>
         <li>Consulting Class Calendar and/or Accountability Partner if you miss a class</li>
+        <li>Class Calendar will change</li>
+        <li>Posting Weekly Progress at ANY time, daily and/or weekly and in between</li>
         <li><a href="dm997X_ms_thesis_syllabus.md">Attendance Policy</a></li>
         </ul>
      <li>Class Discussion</li>
