@@ -331,31 +331,18 @@
     
     
   </ul>  
-    <strong>Class</strong><ul>
-    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold</a></strong> for ALL students.</li>
-    
-    </ul> </td>
-</tr>
-<tr>
-    <td>Wed, May 04</td>
-    <td>
-    <strong>Homework</strong>
-    <ul>
-    <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done the past two weeks?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
-    </ul>
     <strong>Class</strong>
     <ul>
-    <li>(OPTIONAL) <strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 3rd draft</a> Guest Critic: ?</strong>, for any student who would like more feedback. I would encourage the majority of you to do so.</li>
+    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold</a></strong> for ALL students.</li>
+    
     <li>Discuss Wasserman Center's Resume Book (info pinned on slack)</li>
     <li>Discuss <a href="http://chloekoo.net/thesis" target="_blank">http://chloekoo.net/thesis</a> as a model for moving forward with your thesis project.</li>
-    
-    <li>(If time) Review of portfolio sites, cover letters, and resumes.</li>
     </ul>
     
-    </ul></td>
+    </td>
 </tr>
 <tr>
-    <td>Thu May 5, Fri May 6, Mon May 9, Tue May 10 (up to 5 per day)</td>
+    <td>Mon May 2 through Fri May 6 (up to 4 per day)</td>
     <td>
     <strong>Homework</strong>
     <ul>
@@ -365,18 +352,18 @@
     <strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
 </tr>
 <tr>
-    <td>May 5-17</td>
-    <td><ul>
-    <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due</li>
-    <li><strong>Exit Interview Survey</strong> (will be emailed to you)</li></td>
-</tr>
-<tr>
-    <td>by or before Tue May 17</td>
-    <td><strong>2 Bound Copies of Your Thesis Paper on acid-free paper due to Eric Maiello.</strong> 
+    <td><strong>5 PM on Thursday, May 12, 2016</strong></td>
+    <td><strong>2 Bound Copies of Your Thesis Paper on acid-free paper due to Eric Maiello. Eric will get them ALL signed by the TCS department chair.</strong> 
     <ul>
     <li>If you want a bound copy for yourself, bind 3.</li>
     <li>See instructions on how to get them printed in <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">NYU SoE's Thesis guidelines</a> which you can download from Slack under Files.</li>
     </ul></td>
+</tr>
+<tr>
+    <td>May 5-17</td>
+    <td><ul>
+    <li><strong><a href="dm997xmsthesis_end_of_semester_deliverables.md">End of Semester Deliverables</a></strong> Due</li>
+    <li><strong>Exit Interview Survey</strong> (will be emailed to you)</li></td>
 </tr>
 </table>
 
