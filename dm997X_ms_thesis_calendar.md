@@ -182,7 +182,7 @@
     <strong>Class</strong>
     <ul>
     
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (Half of Class - 20 min each)</strong></li>
+    <li>One on Ones (Half of Class - 20 min each)<br>everyone should still come to class.</li>
     </ul>     
     </td> 
 </tr>
@@ -200,7 +200,7 @@
     <strong>Class</strong>
     <ul>
      
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (Other Half of Class - 20 min each)</strong></li>
+    <li>One on Ones (Other Half of Class - 20 min each)<br>everyone should still come to class.</li>
     </ul> 
     </td> 
 </tr>
