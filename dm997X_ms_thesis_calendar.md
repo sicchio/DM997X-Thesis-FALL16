@@ -222,7 +222,7 @@
     <strong>Class</strong>
     <ul> 
    <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong></li>
-   <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (any remaining or do-overs)</strong></li>
+   <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (Half of Class)</strong></li>
    <li>Discuss and Review Thesis Paper Progress</li>
    </ul>
     </td> 
