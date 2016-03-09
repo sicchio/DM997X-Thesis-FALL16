@@ -199,7 +199,7 @@
     </ul>
     <strong>Class</strong>
     <ul>
-     
+     <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong></li>
     <li>One on Ones (Other Half of Class - 20 min each)<br>everyone should still come to class.</li>
     </ul> 
     </td> 
@@ -222,8 +222,7 @@
     <strong>Class</strong>
     <ul> 
    <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong></li>
-   <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (Half of Class)</strong></li>
-   <li>Discuss and Review Thesis Paper Progress</li>
+   <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (All Students)</strong></li>
    </ul>
     </td> 
 </tr>
