@@ -217,11 +217,11 @@
     <li><strong>Document Your Weekly Progress: Project Milestones (aka what have you done this week?) on your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></strong></li>
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li> 
     <li>Post <strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> (1st Draft) to your <a href="dm997X_ms_thesis_website.md">Thesis Process Website</a></li>
-    <li>Rehearse your Mock Thesis Defense with your accountability partner.</li>
+   
     </ul>
     <strong>Class</strong>
     <ul> 
-   <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong></li>
+   <li><strong>Schedule one on one, 30 minute appointments for midterm assessment for students who were absent previous class.</strong></li>
    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta</a> <a href="project_demo.md">Demo Due</a> (All Students)</strong></li>
    </ul>
     </td> 
