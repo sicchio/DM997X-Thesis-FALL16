@@ -182,7 +182,7 @@
     <strong>Class</strong>
     <ul>
     
-    <li>One on Ones (Half of Class - 20 min each)<br>everyone should still come to class.</li>
+    <li>One on Ones (Half of Class - up to 20 min each)<br>everyone should still come to class.</li>
     </ul>     
     </td> 
 </tr>
@@ -200,7 +200,7 @@
     <strong>Class</strong>
     <ul>
      <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong></li>
-    <li>One on Ones (Other Half of Class - 20 min each)<br>everyone should still come to class.</li>
+    <li>One on Ones (Other Half of Class - up to 20 min each)<br>everyone should still come to class.</li>
     </ul> 
     </td> 
 </tr>
