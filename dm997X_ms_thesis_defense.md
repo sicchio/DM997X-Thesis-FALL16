@@ -29,7 +29,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
     <td>Tue 5/3</td>
     <td>7:30pm</td>
-    <td>MAGNET Room TBD</td>
+    <td>TBD</td>
     <td>Matias</td>
     <td>Kaho<br>Computer Science<br>NYU Tandon School of Engineering</td>
     <td></td>
@@ -37,7 +37,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
     <td>Wed 5/4</td>
     <td>9:30am</td>
-    <td>MAGNET Room TBD</td>
+    <td>TBD</td>
     <td>Nirbhay</td>
     <td>Beth Rosenberg<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
@@ -46,7 +46,7 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Fri 5/6</td>
     <td>12:30pm</td>
-    <td>MAGNET Room TBD</td>
+    <td>TBD</td>
     <td>Stefan</td>
     <td>Jason Sigal<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
@@ -55,7 +55,7 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Fri 5/6</td>
     <td>4:30pm</td>
-    <td>MAGNET Room TBD</td>
+    <td>TBD</td>
     <td>Gu</td>
     <td>James Bradley, </td>
     <td></td>
