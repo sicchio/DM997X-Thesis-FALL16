@@ -26,6 +26,40 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>External Examiner<br>Title / Position<br>Organization</td>
     <td>Project Advisor<br>Title / Position<br>Organization</td>
 </tr>
+<tr>
+    <td>Tue 5/3</td>
+    <td>7:30pm</td>
+    <td>MAGNET Room TBD</td>
+    <td>Matias</td>
+    <td>Kaho, CS faculty</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Wed 5/4</td>
+    <td>9:30am</td>
+    <td>MAGNET Room TBD</td>
+    <td>Nirbhay</td>
+    <td>Beth Rosenberg<br>Integrated Digital Media<br>
+NYU Tandon School of Engineering</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Fri 5/6</td>
+    <td>12:30pm</td>
+    <td>MAGNET Room TBD</td>
+    <td>Stefan</td>
+    <td>Jason Sigel<br>Integrated Digital Media<br>
+NYU Tandon School of Engineering</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Fri 5/6</td>
+    <td>4:30pm</td>
+    <td>MAGNET Room TBD</td>
+    <td>Gu</td>
+    <td>James Bradley, </td>
+    <td></td>
+</tr>
 </table>
 
 These are the current available times. These may change as the 19 thesis defenses are scheduled.
