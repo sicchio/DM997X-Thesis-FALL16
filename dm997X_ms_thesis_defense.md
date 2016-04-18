@@ -31,7 +31,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>7:30pm</td>
     <td>MAGNET Room TBD</td>
     <td>Matias</td>
-    <td>Kaho, CS faculty</td>
+    <td>Kaho<br>Computer Science<br>NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@ NYU Tandon School of Engineering</td>
     <td>12:30pm</td>
     <td>MAGNET Room TBD</td>
     <td>Stefan</td>
-    <td>Jason Sigel<br>Integrated Digital Media<br>
+    <td>Jason Sigal<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
