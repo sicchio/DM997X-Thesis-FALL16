@@ -28,6 +28,15 @@ See descriptions of these [thesis roles](thesis_roles.md).
 </tr>
 </table>
 
+These are the current available times. These may change as the 19 thesis defenses are scheduled.
+* **Mon 5/2** 8:30am, 9:30am, 4:30pm, 5:30pm, 6:30pm, 7:30pm
+* **Tue 5/3** 8:30am, 9:30am, 3:30pm, 4:30pm, 5:30pm, 6:30pm
+* **Wed 5/4** 8:30am, 9:30am, 10:30am, 11:30am, 2:30pm, 3:30pm, 6:30pm, 7:30pm
+* **Thu 5/5** 8:30am, 9:30am, 10:30am, 11:30am, 12:30pm, 1:30pm, 2:30pm, 3:30pm, 4:30pm, 5:30pm, 6:30pm, 7:30pm
+* **Fri 5/6** 8:30am, 9:30am, 10:30am, 11:30am, 1:30pm, 2:30pm, 3:30pm, 5:30pm, 6:30pm, 7:30pm
+
+
+
 ## BEFORE THE THESIS DEFENSE
 * Send your project advisor and thesis instructor a PDF of your complete, compiled thesis paper draft **at least a weekend (preferably a week) before your thesis defense** so either your project advisor or thesis faculty can send it to your external examiner. 
 * You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
