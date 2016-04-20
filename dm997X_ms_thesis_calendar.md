@@ -318,6 +318,7 @@
     <Li>URL to Thesis Project website</li>
     <li>Date and Time</li>
     <li>MAGNET 8XX (depending on the room you get assigned.)</li>
+    <li>Open to all</li>
     <li>Include <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a></li>
     </ul>
     <li><strong>Proofread your <a href="dm997X_ms_thesis_paper.md">Thesis Paper</a></strong></li>
