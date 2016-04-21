@@ -46,7 +46,7 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Fri 5/6</td>
     <td>12:30pm</td>
-    <td>TBD</td>
+    <td>MAGNET 811</td>
     <td>Stefan</td>
     <td>Jason Sigal<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
@@ -55,7 +55,7 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Fri 5/6</td>
     <td>2:30pm</td>
-    <td>TBD</td>
+    <td>MAGNET 811</td>
     <td>Stefan</td>
     <td>Shawn Van Every<br>ITP<br>
 NYU Tisch</td>
@@ -64,9 +64,9 @@ NYU Tisch</td>
 <tr>
     <td>Fri 5/6</td>
     <td>4:30pm</td>
-    <td>TBD</td>
+    <td>MAGNET 811</td>
     <td>Gu</td>
-    <td>James Bradley, </td>
+    <td>James Bradley<br></td>
     <td></td>
 </tr>
 </table>
