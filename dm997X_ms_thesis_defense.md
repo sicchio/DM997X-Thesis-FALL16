@@ -74,7 +74,7 @@ NYU Tandon School of Engineering</td>
     <td>Fri 5/6</td>
     <td>2:30pm</td>
     <td>MAGNET 811</td>
-    <td>Stefan</td>
+    <td>Nithi</td>
     <td>Shawn Van Every<br>ITP<br>
 NYU Tisch</td>
     <td>Brendon Trombley<br></td>
