@@ -44,12 +44,21 @@ NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
 <tr>
-    <td>Wed 5/5</td>
+    <td>Thu 5/5</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
     <td>Inna</td>
     <td>Lauren McCarthy<br>ITP<br>
 NYU Tisch</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Thu 5/5</td>
+    <td>5:30pm</td>
+    <td>MAGNET 811</td>
+    <td>Siddhi</td>
+    <td>Art Jones<br>Integrated Digital Media<br>
+NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
 <tr>
