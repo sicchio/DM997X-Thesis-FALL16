@@ -23,8 +23,8 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>Time</td>
     <td>MAGNET Room</td>
     <td>Student</td>
-    <td>External Examiner<br>Title / Position<br>Organization</td>
     <td>Project Advisor<br>Title / Position<br>Organization</td>
+    <td>External Examiner<br>Title / Position<br>Organization</td>
 </tr>
 <tr>
     <td>Tue 5/3</td>
