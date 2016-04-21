@@ -44,6 +44,15 @@ NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
 <tr>
+    <td>Wed 5/5</td>
+    <td>11:30am</td>
+    <td>MAGNET 811</td>
+    <td>Inna</td>
+    <td>Lauren McCarthy<br>ITP<br>
+NYU Tisch</td>
+    <td></td>
+</tr>
+<tr>
     <td>Fri 5/6</td>
     <td>12:30pm</td>
     <td>MAGNET 811</td>
