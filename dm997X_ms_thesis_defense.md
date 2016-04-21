@@ -55,7 +55,7 @@ NYU Tisch</td>
 <tr>
     <td>Thu 5/5</td>
     <td>5:30pm</td>
-    <td>MAGNET 811</td>
+    <td>MAGNET TBD</td>
     <td>Siddhi</td>
     <td>Art Jones<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
