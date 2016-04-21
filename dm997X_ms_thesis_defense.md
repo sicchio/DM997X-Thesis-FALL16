@@ -59,7 +59,7 @@ NYU Tandon School of Engineering</td>
     <td>Stefan</td>
     <td>Shawn Van Every<br>ITP<br>
 NYU Tisch</td>
-    <td></td>
+    <td>Brendon Trombley<br></td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
