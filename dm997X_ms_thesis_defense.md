@@ -37,7 +37,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
 <tr>
     <td>Wed 5/4</td>
     <td>9:30am</td>
-    <td>TBD</td>
+    <td>MAGNET 811</td>
     <td>Nirbhay</td>
     <td>Beth Rosenberg<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
