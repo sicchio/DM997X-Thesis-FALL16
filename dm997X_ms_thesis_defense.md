@@ -93,7 +93,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Tianyu</td>
     <td>Brian MacMillan</td>
-    <td>Karl Hohn<br>Full Stack Developer<br>Staionhead</td>
+    <td>Karl Hohn<br>Full Stack Developer<br>Stationhead</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
