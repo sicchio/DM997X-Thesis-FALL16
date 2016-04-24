@@ -32,7 +32,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>TBD</td>
     <td>Matias</td>
     <td>Kaho<br>Computer Science<br>NYU Tandon School of Engineering</td>
-    <td></td>
+    <td>Eric Skiff<br>Tanooki Labs</td>
 </tr>
 <tr>
     <td>Wed 5/4</td>
