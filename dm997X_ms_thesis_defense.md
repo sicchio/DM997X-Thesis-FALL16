@@ -50,7 +50,7 @@ NYU Tandon School of Engineering</td>
     <td>Inna</td>
     <td>Lauren McCarthy<br>ITP<br>
 NYU Tisch</td>
-    <td></td>
+    <td>Joyce Yu-Jean Lee<br>Artist</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
