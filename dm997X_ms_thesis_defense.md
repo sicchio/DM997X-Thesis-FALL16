@@ -101,7 +101,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Gu</td>
     <td>James Bradley<br></td>
-    <td></td>
+    <td>Sung Kevin Park<br>Senior Designer<br>Metropolitan Museum of Art</td>
 </tr>
 </table>
 
