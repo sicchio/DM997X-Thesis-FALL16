@@ -67,7 +67,7 @@ NYU Tandon School of Engineering</td>
     <td>MAGNET 811</td>
     <td>Hovsep</td>
     <td>Justin Hendrix<br>Executive Director<br>NYC Media Lab</td>
-    <td>Steve Kuyan</td>
+    <td>Steve Kuyan<br>Managing Director, Incubators and Entrepreneurship<br>NYU Tandon School of Engineering</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
