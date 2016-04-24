@@ -32,7 +32,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>TBD</td>
     <td>Matias</td>
     <td>Kaho<br>Computer Science<br>NYU Tandon School of Engineering</td>
-    <td>Eric Skiff<br>Tanooki Labs</td>
+    <td>Eric Skiff<br>Co-Founder<br>Tanooki Labs</td>
 </tr>
 <tr>
     <td>Wed 5/4</td>
@@ -41,7 +41,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>Nirbhay</td>
     <td>Beth Rosenberg<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
-    <td></td>
+    <td>Jianna Heuer<br>Psychotherapist<br>The Relationship Project</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
