@@ -76,7 +76,7 @@ NYU Tandon School of Engineering</td>
     <td>Stefan</td>
     <td>Jason Sigal<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
-    <td></td>
+    <td>Cassie Tarakajian<br>Web Developer<br>Big Human</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
@@ -85,7 +85,7 @@ NYU Tandon School of Engineering</td>
     <td>Nithi</td>
     <td>Shawn Van Every<br>ITP<br>
 NYU Tisch</td>
-    <td>Brendon Trombley<br></td>
+    <td>Brendon Trombley<br>Senior Game Designer<br>Institute of Play</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
@@ -93,7 +93,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Tianyu</td>
     <td>Brian MacMillan</td>
-    <td>Karl Hohn<br></td>
+    <td>Karl Hohn<br>Full Stack Developer<br>Staionhead</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
