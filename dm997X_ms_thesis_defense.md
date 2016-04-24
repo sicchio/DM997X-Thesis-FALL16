@@ -63,7 +63,7 @@ NYU Tandon School of Engineering</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
-    <td>11:30pm</td>
+    <td>11:30am</td>
     <td>MAGNET 811</td>
     <td>Hovsep</td>
     <td>Justin Hendrix<br>Executive Director<br>NYC Media Lab</td>
