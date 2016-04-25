@@ -57,7 +57,7 @@ NYU Tisch</td>
     <td>12:30pm</td>
     <td>MAGNET 811</td>
     <td>Sam</td>
-    <td>Ken Perlin<br><br>
+    <td>Ken Perlin<br>Professor, Computer Science<br>
 NYU Courant</td>
     <td>Paul Travers<br>President &amp; CEO, Vuzix Corporation</td>
 </tr>
