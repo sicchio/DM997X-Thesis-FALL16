@@ -39,7 +39,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>9:30am</td>
     <td>MAGNET 811</td>
     <td>Nirbhay</td>
-    <td>Beth Rosenberg<br>Integrated Digital Media<br>
+    <td>Beth Rosenberg<br>Adjunct Professor, Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td>Jianna Heuer<br>Psychotherapist<br>The Relationship Project</td>
 </tr>
@@ -48,7 +48,7 @@ NYU Tandon School of Engineering</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
     <td>Inna</td>
-    <td>Lauren McCarthy<br>ITP<br>
+    <td>Lauren McCarthy<br>Teacher, ITP<br>
 NYU Tisch</td>
     <td>Joyce Yu-Jean Lee<br>Artist</td>
 </tr>
@@ -68,7 +68,7 @@ NYU Courant Institute of Mathematical Sciences</td>
     <td>5:30pm</td>
     <td>MAGNET TBD</td>
     <td>Siddhi</td>
-    <td>Art Jones<br>Integrated Digital Media<br>
+    <td>Art Jones<br>Adjunct Professor, Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
@@ -94,7 +94,7 @@ NYU Tisch</td>
     <td>12:30pm</td>
     <td>MAGNET 811</td>
     <td>Stefan</td>
-    <td>Jason Sigal<br>Integrated Digital Media<br>
+    <td>Jason Sigal<br>Adjunct Professor, Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td>Cassie Tarakajian<br>Web Developer<br>Big Human</td>
 </tr>
@@ -103,7 +103,7 @@ NYU Tandon School of Engineering</td>
     <td>2:30pm</td>
     <td>MAGNET 811</td>
     <td>Nithi</td>
-    <td>Shawn Van Every<br>ITP<br>
+    <td>Shawn Van Every<br>Teacher, ITP<br>
 NYU Tisch</td>
     <td>Brendon Trombley<br>Senior Game Designer<br>Institute of Play</td>
 </tr>
