@@ -31,7 +31,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>7:30pm</td>
     <td>TBD</td>
     <td>Matias</td>
-    <td>Kaho<br>Computer Science<br>NYU Tandon School of Engineering</td>
+    <td>Kaho Abe<br>Adjunct Professor, Computer Science<br>NYU Tandon School of Engineering</td>
     <td>Eric Skiff<br>Co-Founder<br>Tanooki Labs</td>
 </tr>
 <tr>
