@@ -112,7 +112,7 @@ NYU Tisch</td>
     <td>3:30pm</td>
     <td>MAGNET 811</td>
     <td>Tianyu</td>
-    <td>Brian MacMillan</td>
+    <td>Brian MacMillan<br>Freelance Consultant</td>
     <td>Karl Hohn<br>Full Stack Developer<br>Stationhead</td>
 </tr>
 <tr>
