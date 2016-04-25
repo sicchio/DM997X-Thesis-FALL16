@@ -44,6 +44,15 @@ NYU Tandon School of Engineering</td>
     <td>Jianna Heuer<br>Psychotherapist<br>The Relationship Project</td>
 </tr>
 <tr>
+    <td>Wed 5/4</td>
+    <td></td>
+    <td>MAGNET TBD</td>
+    <td>Carlos</td>
+    <td>Claudio Silva<br>Professor, Integrated Digital Media<br>
+NYU Tandon School of Engineering</td>
+    <td>Huy T. Vo<br>Visiting Exchange Professor<br>Center for Urban Science and Progress (CUSP)</td>
+</tr>
+<tr>
     <td>Thu 5/5</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
