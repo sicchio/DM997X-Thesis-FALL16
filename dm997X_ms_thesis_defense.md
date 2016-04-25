@@ -54,6 +54,17 @@ NYU Tisch</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
+    <td>12:30pm</td>
+    <td>MAGNET 811</td>
+    <td>Sam</td>
+    <td>Ken Perlin<br><br>
+NYU Courant</td>
+    <td>Paul Travers<br>President &amp; CEO, Vuzix Corporation</td>
+</tr>
+
+
+<tr>
+    <td>Thu 5/5</td>
     <td>5:30pm</td>
     <td>MAGNET TBD</td>
     <td>Siddhi</td>
