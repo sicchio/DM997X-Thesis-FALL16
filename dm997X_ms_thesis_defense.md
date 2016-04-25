@@ -58,7 +58,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Sam</td>
     <td>Ken Perlin<br>Professor, Computer Science<br>
-NYU Courant</td>
+NYU Courant Institute of Mathematical Sciences</td>
     <td>Paul Travers<br>President &amp; CEO, Vuzix Corporation</td>
 </tr>
 
