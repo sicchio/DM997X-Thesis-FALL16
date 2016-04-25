@@ -74,7 +74,7 @@ NYU Tandon School of Engineering</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
-    <td>5:30pm</td>
+    <td>6:30pm</td>
     <td>MAGNET TBD</td>
     <td>Leslie</td>
     <td>Nancy Hechinger<br>Teacher, ITP<br>
