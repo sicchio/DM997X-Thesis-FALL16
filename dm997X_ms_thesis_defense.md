@@ -45,10 +45,10 @@ NYU Tandon School of Engineering</td>
 </tr>
 <tr>
     <td>Wed 5/4</td>
-    <td></td>
+    <td>6:30pm</td>
     <td>MAGNET TBD</td>
     <td>Carlos</td>
-    <td>Claudio Silva<br>Professor, Computer Science<br>
+    <td>Claudio Silva<br>Professor, Computer Science &amp; Engineering<br>
 NYU Tandon School of Engineering</td>
     <td>Huy T. Vo<br>Visiting Exchange Professor<br>NYU Center For Urban Science And Progress (CUSP)</td>
 </tr>
@@ -137,7 +137,7 @@ NYU Tisch</td>
 These are the current available times. These may change as the 19 thesis defenses are scheduled.
 * **Mon 5/2** 8:30am, 9:30am, 4:30pm, 5:30pm, 6:30pm, 7:30pm
 * **Tue 5/3** 8:30am, 9:30am, 3:30pm, 4:30pm, 5:30pm, 6:30pm
-* **Wed 5/4** 8:30am, 9:30am, 10:30am, 11:30am, 2:30pm, 3:30pm, 6:30pm, 7:30pm
+* **Wed 5/4** 8:30am, 9:30am, 10:30am, 11:30am, 2:30pm, 3:30pm, 7:30pm
 * **Thu 5/5** 8:30am, 9:30am, 10:30am, 1:30pm, 2:30pm, 3:30pm, 4:30pm, 7:30pm
 * **Fri 5/6** 8:30am, 9:30am, 10:30am, 1:30pm, 5:30pm, 6:30pm, 7:30pm
 
