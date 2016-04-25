@@ -48,9 +48,9 @@ NYU Tandon School of Engineering</td>
     <td></td>
     <td>MAGNET TBD</td>
     <td>Carlos</td>
-    <td>Claudio Silva<br>Professor, Integrated Digital Media<br>
+    <td>Claudio Silva<br>Professor, Computer Science<br>
 NYU Tandon School of Engineering</td>
-    <td>Huy T. Vo<br>Visiting Exchange Professor<br>Center for Urban Science and Progress (CUSP)</td>
+    <td>Huy T. Vo<br>Visiting Exchange Professor<br>NYU Center For Urban Science And Progress (CUSP)</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
