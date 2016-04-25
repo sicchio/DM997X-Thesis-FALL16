@@ -73,6 +73,15 @@ NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
 <tr>
+    <td>Thu 5/5</td>
+    <td>5:30pm</td>
+    <td>MAGNET TBD</td>
+    <td>Leslie</td>
+    <td>Nancy Hechinger<br>Teacher, ITP<br>
+NYU Tisch</td>
+    <td>Deborah Lee<br>Senior Staff Attorney<br>Sanctuary for Families’ Immigration Intervention Project</td>
+</tr>
+<tr>
     <td>Fri 5/6</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
