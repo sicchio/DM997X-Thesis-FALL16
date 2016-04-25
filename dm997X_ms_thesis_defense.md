@@ -46,7 +46,7 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Wed 5/4</td>
     <td>6:30pm</td>
-    <td>MAGNET TBD</td>
+    <td>MAGNET 811</td>
     <td>Carlos</td>
     <td>Claudio Silva<br>Professor, Computer Science &amp; Engineering<br>
 NYU Tandon School of Engineering</td>
