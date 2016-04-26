@@ -77,7 +77,8 @@ NYU Courant Institute of Mathematical Sciences</td>
     <td>Neill</td>
     <td>Kate Sicchio, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
-    <td></td>
+    <td>John Sharp, External Reviewer<br>Associate Professor of Games + Learning<br>
+Parsons School of Design at The New School</td>
 </tr>
 
 <tr>
