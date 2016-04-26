@@ -96,6 +96,14 @@ NYU Tisch</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
+    <td>9:30am</td>
+    <td>MAGNET 811</td>
+    <td>Helen</td>
+    <td>Luke DuBois, Project Advisor<br>NYC Media Lab</td>
+    <td>Jer Thorp, External Reviewer<br>Managing Director, Incubators and Entrepreneurship<br>Office of Creative Research</td>
+</tr>
+<tr>
+    <td>Fri 5/6</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
     <td>Hovsep</td>
