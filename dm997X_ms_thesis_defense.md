@@ -100,7 +100,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Helen</td>
     <td>Luke DuBois, Project Advisor<br>NYC Media Lab</td>
-    <td>Jer Thorp, External Reviewer<br>Managing Director, Incubators and Entrepreneurship<br>Office of Creative Research</td>
+    <td>Jer Thorp, External Reviewer<br>Co-Founder<br>Office of Creative Research</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
