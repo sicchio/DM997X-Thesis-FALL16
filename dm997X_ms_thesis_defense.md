@@ -4,8 +4,6 @@
 ---
 #THESIS DEFENSE
 
-
-
 The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
 * Your Project Advisor
