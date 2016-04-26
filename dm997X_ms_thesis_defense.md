@@ -31,7 +31,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>7:30pm</td>
     <td>TBD</td>
     <td>Matias</td>
-    <td>Kaho Abe<br>Adjunct Professor, Computer Science<br>NYU Tandon School of Engineering</td>
+    <td>Kaho Abe, Project Advisor<br>Game Innovation Lab<br>NYU Tandon School of Engineering</td>
     <td>Eric Skiff<br>Co-Founder<br>Tanooki Labs</td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>9:30am</td>
     <td>MAGNET 811</td>
     <td>Nirbhay</td>
-    <td>Beth Rosenberg<br>Adjunct Professor, Integrated Digital Media<br>
+    <td>Beth Rosenberg, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td>Jianna Heuer<br>Psychotherapist<br>The Relationship Project</td>
 </tr>
@@ -48,7 +48,7 @@ NYU Tandon School of Engineering</td>
     <td>6:30pm</td>
     <td>MAGNET 811</td>
     <td>Carlos</td>
-    <td>Claudio Silva<br>Professor, Computer Science &amp; Engineering<br>
+    <td>Claudio Silva, Project Advisor<br>Computer Science &amp; Engineering<br>
 NYU Tandon School of Engineering</td>
     <td>Huy T. Vo<br>Visiting Exchange Professor<br>NYU Center For Urban Science And Progress (CUSP)</td>
 </tr>
@@ -57,7 +57,7 @@ NYU Tandon School of Engineering</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
     <td>Inna</td>
-    <td>Lauren McCarthy<br>Teacher, ITP<br>
+    <td>Lauren McCarthy, Project Advisor<br>ITP<br>
 NYU Tisch</td>
     <td>Joyce Yu-Jean Lee<br>Artist</td>
 </tr>
@@ -66,7 +66,7 @@ NYU Tisch</td>
     <td>12:30pm</td>
     <td>MAGNET 811</td>
     <td>Sam</td>
-    <td>Ken Perlin<br>Professor, Computer Science<br>
+    <td>Ken Perlin, Project Advisor<br>Computer Science<br>
 NYU Courant Institute of Mathematical Sciences</td>
     <td>Paul Travers<br>President &amp; CEO, Vuzix Corporation</td>
 </tr>
@@ -75,7 +75,7 @@ NYU Courant Institute of Mathematical Sciences</td>
     <td>1:30pm</td>
     <td>MAGNET 811</td>
     <td>Neill</td>
-    <td>Kate Sicchio<br>Adjunct Professor, Integrated Digital Media<br>
+    <td>Kate Sicchio, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
@@ -85,7 +85,7 @@ NYU Tandon School of Engineering</td>
     <td>5:30pm</td>
     <td>MAGNET TBD</td>
     <td>Siddhi</td>
-    <td>Art Jones<br>Adjunct Professor, Integrated Digital Media<br>
+    <td>Art Jones, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td></td>
 </tr>
@@ -94,7 +94,7 @@ NYU Tandon School of Engineering</td>
     <td>6:30pm</td>
     <td>MAGNET TBD</td>
     <td>Leslie</td>
-    <td>Nancy Hechinger<br>Teacher, ITP<br>
+    <td>Nancy Hechinger, Project Advisor<br>ITP<br>
 NYU Tisch</td>
     <td>Deborah Lee<br>Senior Staff Attorney<br>Sanctuary for Families’ Immigration Intervention Project</td>
 </tr>
@@ -103,7 +103,7 @@ NYU Tisch</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
     <td>Hovsep</td>
-    <td>Justin Hendrix<br>Executive Director<br>NYC Media Lab</td>
+    <td>Justin Hendrix, Project Advisor<br>NYC Media Lab</td>
     <td>Steve Kuyan<br>Managing Director, Incubators and Entrepreneurship<br>NYU Tandon School of Engineering</td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ NYU Tisch</td>
     <td>12:30pm</td>
     <td>MAGNET 811</td>
     <td>Stefan</td>
-    <td>Jason Sigal<br>Adjunct Professor, Integrated Digital Media<br>
+    <td>Jason Sigal, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
     <td>Cassie Tarakajian<br>Web Developer<br>Big Human</td>
 </tr>
@@ -120,7 +120,7 @@ NYU Tandon School of Engineering</td>
     <td>2:30pm</td>
     <td>MAGNET 811</td>
     <td>Nithi</td>
-    <td>Shawn Van Every<br>Teacher, ITP<br>
+    <td>Shawn Van Every, Project Advisor<br>ITP<br>
 NYU Tisch</td>
     <td>Brendon Trombley<br>Senior Game Designer<br>Institute of Play</td>
 </tr>
@@ -129,7 +129,7 @@ NYU Tisch</td>
     <td>3:30pm</td>
     <td>MAGNET 811</td>
     <td>Tianyu</td>
-    <td>Brian MacMillan<br>Freelance Consultant</td>
+    <td>Brian MacMillan, Project Advisor<br>Freelance Consultant</td>
     <td>Karl Hohn<br>Full Stack Developer<br>Stationhead</td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ NYU Tisch</td>
     <td>4:30pm</td>
     <td>MAGNET 811</td>
     <td>Gu</td>
-    <td>James Bradley<br>Executive Director<br>WebServes</td>
+    <td>James Bradley, Project Advisor<br>WebServes</td>
     <td>Sung Kevin Park<br>Senior Designer<br>Metropolitan Museum of Art</td>
 </tr>
 </table>
