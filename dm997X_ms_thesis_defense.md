@@ -32,7 +32,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>TBD</td>
     <td>Matias</td>
     <td>Kaho Abe, Project Advisor<br>Game Innovation Lab<br>NYU Tandon School of Engineering</td>
-    <td>Eric Skiff<br>Co-Founder<br>Tanooki Labs</td>
+    <td>Eric Skiff, External Reviewer<br>Co-Founder<br>Tanooki Labs</td>
 </tr>
 <tr>
     <td>Wed 5/4</td>
@@ -41,7 +41,7 @@ See descriptions of these [thesis roles](thesis_roles.md).
     <td>Nirbhay</td>
     <td>Beth Rosenberg, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
-    <td>Jianna Heuer<br>Psychotherapist<br>The Relationship Project</td>
+    <td>Jianna Heuer, External Reviewer<br>Psychotherapist<br>The Relationship Project</td>
 </tr>
 <tr>
     <td>Wed 5/4</td>
@@ -50,7 +50,7 @@ NYU Tandon School of Engineering</td>
     <td>Carlos</td>
     <td>Claudio Silva, Project Advisor<br>Computer Science &amp; Engineering<br>
 NYU Tandon School of Engineering</td>
-    <td>Huy T. Vo<br>Visiting Exchange Professor<br>NYU Center For Urban Science And Progress (CUSP)</td>
+    <td>Huy T. Vo, External Reviewer<br>Visiting Exchange Professor<br>NYU Center For Urban Science And Progress (CUSP)</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
@@ -59,7 +59,7 @@ NYU Tandon School of Engineering</td>
     <td>Inna</td>
     <td>Lauren McCarthy, Project Advisor<br>ITP<br>
 NYU Tisch</td>
-    <td>Joyce Yu-Jean Lee<br>Artist</td>
+    <td>Joyce Yu-Jean Lee, External Reviewer<br>Artist</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
@@ -68,7 +68,7 @@ NYU Tisch</td>
     <td>Sam</td>
     <td>Ken Perlin, Project Advisor<br>Computer Science<br>
 NYU Courant Institute of Mathematical Sciences</td>
-    <td>Paul Travers<br>President &amp; CEO, Vuzix Corporation</td>
+    <td>Paul Travers, External Reviewer<br>President &amp; CEO, Vuzix Corporation</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
@@ -96,7 +96,7 @@ NYU Tandon School of Engineering</td>
     <td>Leslie</td>
     <td>Nancy Hechinger, Project Advisor<br>ITP<br>
 NYU Tisch</td>
-    <td>Deborah Lee<br>Senior Staff Attorney<br>Sanctuary for Families’ Immigration Intervention Project</td>
+    <td>Deborah Lee, External Reviewer<br>Senior Staff Attorney<br>Sanctuary for Families’ Immigration Intervention Project</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
@@ -104,7 +104,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Hovsep</td>
     <td>Justin Hendrix, Project Advisor<br>NYC Media Lab</td>
-    <td>Steve Kuyan<br>Managing Director, Incubators and Entrepreneurship<br>NYU Tandon School of Engineering</td>
+    <td>Steve Kuyan, External Reviewer<br>Managing Director, Incubators and Entrepreneurship<br>NYU Tandon School of Engineering</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
@@ -113,7 +113,7 @@ NYU Tisch</td>
     <td>Stefan</td>
     <td>Jason Sigal, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
-    <td>Cassie Tarakajian<br>Web Developer<br>Big Human</td>
+    <td>Cassie Tarakajian, External Reviewer<br>Web Developer<br>Big Human</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
@@ -122,7 +122,7 @@ NYU Tandon School of Engineering</td>
     <td>Nithi</td>
     <td>Shawn Van Every, Project Advisor<br>ITP<br>
 NYU Tisch</td>
-    <td>Brendon Trombley<br>Senior Game Designer<br>Institute of Play</td>
+    <td>Brendon Trombley, External Reviewer<br>Senior Game Designer<br>Institute of Play</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
@@ -130,7 +130,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Tianyu</td>
     <td>Brian MacMillan, Project Advisor<br>Freelance Consultant</td>
-    <td>Karl Hohn<br>Full Stack Developer<br>Stationhead</td>
+    <td>Karl Hohn, External Reviewer<br>Full Stack Developer<br>Stationhead</td>
 </tr>
 <tr>
     <td>Fri 5/6</td>
@@ -138,7 +138,7 @@ NYU Tisch</td>
     <td>MAGNET 811</td>
     <td>Gu</td>
     <td>James Bradley, Project Advisor<br>WebServes</td>
-    <td>Sung Kevin Park<br>Senior Designer<br>Metropolitan Museum of Art</td>
+    <td>Sung Kevin Park, External Reviewer<br>Senior Designer<br>Metropolitan Museum of Art</td>
 </tr>
 </table>
 
