@@ -152,7 +152,7 @@ These are the current available times. These may change as the 19 thesis defense
 
 
 ## BEFORE THE THESIS DEFENSE
-* Send your project advisor and thesis instructor a PDF of your complete, compiled thesis paper draft **at least a weekend (preferably a week) before your thesis defense** so either you, your project advisor or thesis faculty can send it to your external revirwer. 
+* Send your project advisor and thesis instructor a PDF of your complete, compiled thesis paper draft **at least a weekend (preferably a week) before your thesis defense** so either you, your project advisor or thesis faculty can send it to your external reviewer. 
 * You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
 
 
