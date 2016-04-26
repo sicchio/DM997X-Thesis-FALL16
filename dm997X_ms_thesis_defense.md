@@ -75,7 +75,15 @@ NYU Courant Institute of Mathematical Sciences</td>
 NYU Tandon School of Engineering</td>
     <td>John Sharp, External Reviewer<br>Associate Professor of Games + Learning<br>Parsons School of Design at The New School</td>
 </tr>
-
+<tr>
+    <td>Thu 5/5</td>
+    <td>2:30pm</td>
+    <td>MAGNET 811</td>
+    <td>Ayanna</td>
+    <td>Luke DuBois, Project Advisor<br>Integrated Digital Media<br>
+NYU Tandon School of Engineering</td>
+    <td>Murray Cox, External Reviewer<br>Founder &amp; Chief Data Analyst<br>Inside Airbnb</td>
+</tr>
 <tr>
     <td>Thu 5/5</td>
     <td>5:30pm</td>
