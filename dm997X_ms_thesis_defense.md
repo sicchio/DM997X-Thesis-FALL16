@@ -86,6 +86,15 @@ NYU Tandon School of Engineering</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
+    <td>4:30pm</td>
+    <td>MAGNET TBD</td>
+    <td>Siddhi</td>
+    <td>Art Jones, Project Advisor<br>Integrated Digital Media<br>
+NYU Tandon School of Engineering</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Thu 5/5</td>
     <td>5:30pm</td>
     <td>MAGNET TBD</td>
     <td>Siddhi</td>
@@ -159,7 +168,7 @@ These are the current available times. These may change as the 17 thesis defense
 * **Mon 5/2** 8:30am, 9:30am, 4:30pm, 5:30pm, 6:30pm, 7:30pm
 * **Tue 5/3** 8:30am, 9:30am, 3:30pm, 4:30pm, 5:30pm, 6:30pm
 * **Wed 5/4** 8:30am, 9:30am, 10:30am, 11:30am, 2:30pm, 3:30pm, 7:30pm
-* **Thu 5/5** 8:30am, 9:30am, 10:30am, 3:30pm, 4:30pm, 7:30pm
+* **Thu 5/5** 8:30am, 9:30am, 10:30am, 3:30pm, 7:30pm
 * **Fri 5/6** 8:30am, 10:30am, 1:30pm, 5:30pm, 6:30pm, 7:30pm
 
 
