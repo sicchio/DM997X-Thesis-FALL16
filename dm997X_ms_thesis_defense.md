@@ -164,7 +164,7 @@ Please note that there are two different signature pages.
 
 The first is seen in the NYU Tandon's Thesis guidelines, (on slack under Files as Master's Thesis and Project Report Guidelines_Jan2016 version.pdf), and contains spacing for:
 * Project Advisor (will sign at the end of the thesis defense) 
-* Department Head, Jonathan Soffer (IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, will get the department head's signature once you give him the bound copies)
+* Department Head, Jonathan Soffer (IDM's Academic Coordinator, Eric Maiello eric.maiello@nyu.edu, will get the department head's signature once you give him the bound copies)
 
 The second signature page is not in the guidelines. Consult the word template, MS_Thesis_Paper_Preliminaries.doc, for both signature pages (on slack  under Files for formatting). This page is dedicated to the Defense Panel, and should include spacing for:
 * Project Advisor
