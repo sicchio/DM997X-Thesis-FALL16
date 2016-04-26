@@ -138,7 +138,7 @@ NYU Tisch</td>
 </tr>
 </table>
 
-These are the current available times. These may change as the 19 thesis defenses are scheduled.
+These are the current available times. These may change as the 17 thesis defenses are scheduled.
 * **Mon 5/2** 8:30am, 9:30am, 4:30pm, 5:30pm, 6:30pm, 7:30pm
 * **Tue 5/3** 8:30am, 9:30am, 3:30pm, 4:30pm, 5:30pm, 6:30pm
 * **Wed 5/4** 8:30am, 9:30am, 10:30am, 11:30am, 2:30pm, 3:30pm, 7:30pm
