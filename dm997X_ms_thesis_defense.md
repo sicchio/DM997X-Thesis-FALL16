@@ -179,7 +179,7 @@ The second signature page is not in the guidelines. Consult the word template, M
 * The place to bind it is within NYU SoE's Thesis guidelines<br>(on slack under Files as Master's Thesis and Project Report Guidelines_Jan2016 version.pdf).
 * The 2 bound copies are due to Eric Maiello BEFORE May 17th.
 * The entire thesis should be printed on acid free paper.
-* Make sure to include the signed signature pages for binding.
+* *Make sure to include the signed signature pages for binding.*
 
 
 
