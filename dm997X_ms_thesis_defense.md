@@ -4,16 +4,14 @@
 ---
 #THESIS DEFENSE
 
-Thesis Defenses will be open to NYU Faculty, Staff, and Students. Date, Time, and MAGNET Room to be determined.
+
 
 The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
 * Your Project Advisor
 * An External Examiner
 
-(OPTIONAL) Your Thesis Accountability Partner and Thesis Peers can also attend your presentation and Q&A.
-
-See descriptions of these [thesis roles](thesis_roles.md).
+The presentation and Q&A sections of your Thesis Defense are open to anyone. Date, Time, and MAGNET Room to be determined. I recommend that your Thesis Accountability Partner and Thesis Peers attend. See descriptions of these [thesis roles](thesis_roles.md).
 
 ##THESIS DEFENSE SCHEDULE
 
