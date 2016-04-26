@@ -88,10 +88,10 @@ NYU Tandon School of Engineering</td>
     <td>Thu 5/5</td>
     <td>4:30pm</td>
     <td>MAGNET TBD</td>
-    <td>Siddhi</td>
-    <td>Art Jones, Project Advisor<br>Integrated Digital Media<br>
+    <td>Ryan</td>
+    <td>Hideki Kato, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
-    <td></td>
+    <td>Ethan Hein, External Examiner<br>Experience Designer in Residence<br>NYU MusEDLab</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
