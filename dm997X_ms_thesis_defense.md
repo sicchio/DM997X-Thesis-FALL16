@@ -99,7 +99,8 @@ NYU Tisch</td>
     <td>9:30am</td>
     <td>MAGNET 811</td>
     <td>Helen</td>
-    <td>Luke DuBois, Project Advisor<br>NYC Media Lab</td>
+    <td>Luke DuBois, Project Advisor<br>Integrated Digital Media<br>
+NYU Tandon School of Engineering</td>
     <td>Jer Thorp, External Reviewer<br>Co-Founder<br>Office of Creative Research</td>
 </tr>
 <tr>
