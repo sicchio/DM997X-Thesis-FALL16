@@ -25,7 +25,7 @@ The presentation and Q&A sections of your Thesis Defense are open to anyone. Dat
 <tr>
     <td>Tue 5/3</td>
     <td>7:30pm</td>
-    <td>TBD</td>
+    <td>MAGNET 816</td>
     <td>Matias</td>
     <td>Kaho Abe, Project Advisor<br>Game Innovation Lab<br>NYU Tandon School of Engineering</td>
     <td>Eric Skiff, External Reviewer<br>Co-Founder<br>Tanooki Labs</td>
@@ -114,7 +114,7 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Thu 5/5</td>
     <td>6:30pm</td>
-    <td>MAGNET TBD</td>
+    <td>MAGNET 816</td>
     <td>Leslie</td>
     <td>Nancy Hechinger, Project Advisor<br>ITP<br>
 NYU Tisch</td>
