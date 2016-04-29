@@ -50,6 +50,15 @@ NYU Tandon School of Engineering</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
+    <td>9:30am</td>
+    <td>MAGNET 811</td>
+    <td>Monica</td>
+    <td>Anindya Ghose, Project Advisor<br>ITP<br>
+NYU Stern</td>
+    <td>Bobby Marks, External Reviewer<br>Doorboost, Head of Growth</td>
+</tr>
+<tr>
+    <td>Thu 5/5</td>
     <td>11:30am</td>
     <td>MAGNET 811</td>
     <td>Inna</td>
