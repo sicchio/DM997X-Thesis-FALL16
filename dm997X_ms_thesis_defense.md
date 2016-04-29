@@ -96,7 +96,7 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Thu 5/5</td>
     <td>4:30pm</td>
-    <td>MAGNET TBD</td>
+    <td>MAGNET 811</td>
     <td>Ryan</td>
     <td>Hideki Kato, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
