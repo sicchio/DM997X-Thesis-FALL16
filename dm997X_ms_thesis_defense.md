@@ -55,7 +55,7 @@ NYU Tandon School of Engineering</td>
     <td>Monica</td>
     <td>Anindya Ghose, Project Advisor<br>ITP<br>
 NYU Stern</td>
-    <td>Bobby Marks, External Reviewer<br>Doorboost, Head of Growth</td>
+    <td>Bobby Marks, External Reviewer<br>DOORBOOST, Head of Growth</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
