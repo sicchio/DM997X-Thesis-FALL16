@@ -105,11 +105,11 @@ NYU Tandon School of Engineering</td>
 <tr>
     <td>Thu 5/5</td>
     <td>5:30pm</td>
-    <td>MAGNET TBD</td>
+    <td>MAGNET 806</td>
     <td>Siddhi</td>
     <td>Art Jones, Project Advisor<br>Integrated Digital Media<br>
 NYU Tandon School of Engineering</td>
-    <td></td>
+    <td>Stefani Saintonge, External Examiner<br>Filmmaker and Educator</td>
 </tr>
 <tr>
     <td>Thu 5/5</td>
