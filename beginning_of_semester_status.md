@@ -1,10 +1,10 @@
 ### DM-GY 997X MS Thesis In Digital Media
-##### Spring 2016 • De Angela L. Duff • Wednesdays • 7:30-10:20pm • 2MTC MAGNET 811 
+##### Fall 2016 • Kate Sicchio • Wednesdays • 7:00-10:00pm • 2MTC MAGNET 811 
 
 ---
 #IDM MS THESIS BEGINNING OF SEMESTER STATUS 
 
-*Direct message to deangela as a pdf on Slack. If you don't know how to direct message on Slack, wait until the beginning of class, and I'll show you how.* 
+*Email to sicchio@nyu.edu* 
 
 Copy and paste these questions in a word processing application of your choice.
 Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
@@ -12,16 +12,11 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **List your name:**
 
-* **What are your career goals?** (What are the next steps for you post-graduation? What industry/industries are you targeting? Are you targeting any particular companies or organizations?)
+* **What are your goals post thesis?** (What are the next steps for you post-graduation? What industry/industries are you interested in? Are you targeting any particular companies or organizations?)
 
-* **List your [accountability partner](https://deangela.gitbooks.io/ms-thesis-in-digital-media-spring-2016/content/accountability_partners.html)** (after confirming this with them.):
-
-* **List your thesis title:**
-
-    * **Is it a final or working title?**
+* **List your working thesis title:**
     
-   
-* **What are *at least* 3 keywords or hashtags that define your thesis?** (This represents the theme(s) of your project.)
+* **List 3-5 keywords that define your thesis?** (This represents the theme(s) of your project.)
 
 * **What is the aim of your thesis research?** Discover by filling in the blanks. Refer to chapters 3 and 4 in the required book, *The Craft of Research*.
 
