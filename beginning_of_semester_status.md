@@ -16,7 +16,9 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **List your working thesis title:**
     
-* **List 3-5 keywords that define your thesis?** (This represents the theme(s) of your project.)
+* **List 3-5 keywords for your thesis paper** (What topics are you exploring in the research?)
+
+* **List 3 subject domains for your thesis ** (Where does the research sit in the world?) 
 
 * **What is the aim of your thesis research?** Discover by filling in the blanks. Refer to chapters 3 and 4 in the required book, *The Craft of Research*.
 
@@ -24,10 +26,13 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
     * Question: because I want to find out who/what/when/where/whether/why/how_________.
     * Significance: in order to help my audience (do, understand how, etc.)_________. 
 
+Further examples:
 
-    * what you are writing about—your topic: I am studying . . .
-    * what you don’t know about it—your question: because I want to find out . . .
-    * why you want your reader to know about it—your rationale: in order to help my reader understand better
+"I am creating a _____ (app, game, installation, sculpture, sound piece….) for _____ (audience) to _____ (action, verb), evoke feelings of _____ (emotional response/tone, adjective)  and thoughts about _____ (topics, nouns) in the context of _____ (where, when)."
+
+"By applying a _____ methodology, can I investigate _____ (problem, subject, etc.) through the creation of a _____ (app, game, installation, sculpture, sound piece….)?"
+
+"I propose to research _____ in order to _____ (understand, describe, develop, discover) the _____ (domain of study) for _____ (audience/community of practice). At this stage in the research, the _____ domain will be generally defined as _____ (a general definition of the central concept)." (adapted from Gavin Davie)
 
 * **What is its form?** (Be specific. Digital is not specific enough. e.g. website, mobile app, installation, etc.)
 
@@ -37,7 +42,6 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **What are all the things you need in order to get this project on its feet? (List people, materials, space, etc.)?** (methodology)
  
-
 * **How and why has the topic of your thesis changed through time, as something with its own history? How and why is your topic an episode in a larger
 history?** (history)
 
@@ -67,18 +71,18 @@ Read [Indiana University's How To Write a Thesis Statement](http://www.indiana.e
 
  * Why did you select this person to be your thesis advisor?
 
- * Did you meet with him/her over the winter break? If yes, how many times? What did you discuss/question/decide with your thesis advisor over the winter break?
+ * Did you meet with him/her over the summer break? If yes, how many times? What did you discuss/question/decide with your thesis advisor over the summer break?
 
  * Have you worked out a schedule to meet with him/her over this semester? If so, when and how often? If not, do so immediately.
 
  * If you don’t have a thesis advisor, who have you been in contact with? What was their response? What area(s) of expertise are your seeking in a thesis advisor?
 
-* **Discuss your winter progress**
-    * What did you do over the winter break to make progress on your **project**? If you did not work on your project over the winter break, own it and say so.
+* **Discuss your summer progress**
+    * What did you do over the summer break to make progress on your **project**? If you did not work on your project over the summer, please say so.
 
-    * What did you do over the winter break to make progress on your **paper**? If you did not work on your paper over the winter break, own it and say so.
+    * What did you do over the summer break to make progress on your **paper**? If you did not work on your paper over the winter break, please say so.
 
-    * How has your project transformed or shifted over the winter break AND why?
+    * How has your project transformed or shifted over the summer break AND why?
 
 
 * **Why have you chosen at this particular time to investigate your chosen thesis?**
