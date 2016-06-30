@@ -4,7 +4,7 @@
 ---
 #IDM MS THESIS BEGINNING OF SEMESTER STATUS 
 
-*Email to sicchio@nyu.edu* 
+*Email to sicchio@nyu.edu* BEFORE AUG 24TH 
 
 Further information and the syllabus will be sent later this summer.
 
@@ -18,9 +18,9 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
 * **List your working thesis title:**
     
-* **List 3-5 keywords for your thesis paper** (What topics are you exploring in the research?)
+* **List 3-5 keywords for your thesis paper:** (What topics are you exploring in the research?)
 
-* **List 3 subject domains for your thesis ** (Where does the research sit in the world?) 
+* **List 3 subject domains for your thesis:** (Where does the research sit in the world?) 
 
 * **What is the aim of your thesis research?** Discover by filling in the blanks. Refer to chapters 3 and 4 in the required book, *The Craft of Research*.
 
