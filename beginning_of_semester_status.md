@@ -1,5 +1,5 @@
 ### DM-GY 997X MS Thesis In Digital Media
-##### Fall 2016 • Kate Sicchio • Wednesdays • 7:00-10:00pm • 2MTC MAGNET 811 
+##### Fall 2016 • Kate Sicchio • Wednesdays • 7:00-9:50pm • 2MTC MAGNET 811 
 
 ---
 #IDM MS THESIS BEGINNING OF SEMESTER STATUS 
