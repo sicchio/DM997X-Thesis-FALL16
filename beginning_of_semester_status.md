@@ -6,6 +6,8 @@
 
 *Email to sicchio@nyu.edu* 
 
+Further information and the syllabus will be sent later this summer.
+
 Copy and paste these questions in a word processing application of your choice.
 Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
 
