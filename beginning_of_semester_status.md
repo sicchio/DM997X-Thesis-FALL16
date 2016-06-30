@@ -26,13 +26,13 @@ Export as a pdf. **Name file as yourfirstname_msthesis_status.pdf**
     * Question: because I want to find out who/what/when/where/whether/why/how_________.
     * Significance: in order to help my audience (do, understand how, etc.)_________. 
 
-Further examples:
+    Further examples:
 
-"I am creating a _____ (app, game, installation, sculpture, sound piece….) for _____ (audience) to _____ (action, verb), evoke feelings of _____ (emotional response/tone, adjective)  and thoughts about _____ (topics, nouns) in the context of _____ (where, when)."
+    "I am creating a _____ (app, game, installation, sculpture, sound piece….) for _____ (audience) to _____ (action, verb), evoke feelings of _____ (emotional response/tone, adjective)  and thoughts about _____ (topics, nouns) in the context of _____ (where, when)."
 
-"By applying a _____ methodology, can I investigate _____ (problem, subject, etc.) through the creation of a _____ (app, game, installation, sculpture, sound piece….)?"
+    "By applying a _____ methodology, can I investigate _____ (problem, subject, etc.) through the creation of a _____ (app, game, installation, sculpture, sound piece….)?"
 
-"I propose to research _____ in order to _____ (understand, describe, develop, discover) the _____ (domain of study) for _____ (audience/community of practice). At this stage in the research, the _____ domain will be generally defined as _____ (a general definition of the central concept)." (adapted from Gavin Davie)
+    "I propose to research _____ in order to _____ (understand, describe, develop, discover) the _____ (domain of study) for _____ (audience/community of practice). At this stage in the research, the _____ domain will be generally defined as _____ (a general definition of the central concept)." (adapted from Gavin Davie)
 
 * **What is its form?** (Be specific. Digital is not specific enough. e.g. website, mobile app, installation, etc.)
 
